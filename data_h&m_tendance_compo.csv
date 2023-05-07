@@ -1,0 +1,2160 @@
+,product_id,layer,material,percentage
+0,1166969003,Doublure,Polyester,100.0
+1,1166969003,Couche extérieure,Polyester,100.0
+2,1166969003,Bordure,Polyester,100.0
+3,1142215002,Doublure,Polyester,100.0
+4,1142215002,Couche extérieure,Polyester,61.0
+5,1142215002,Couche extérieure,Viscose,23.0
+6,1142215002,Couche extérieure,Polyamide,16.0
+7,1159122003,Doublure,Coton,100.0
+8,1159122003,Couche extérieure,Coton,100.0
+9,1159122001,Couche extérieure,Coton,100.0
+10,1159122001,Doublure,Coton,100.0
+11,1157667001,Couche extérieure,Polyester,99.0
+12,1157667001,Couche extérieure,Élasthanne,1.0
+13,1157667001,Doublure,Polyester,100.0
+14,1158221001,Couche extérieure,Polyester,100.0
+15,1158221001,Doublure,Polyester,100.0
+16,1156096001,Semelle intérieure,Cuir,100.0
+17,1156096001,Semelle extérieure,Polyuréthane,51.0
+18,1156096001,Semelle extérieure,Polyuréthane thermoplastique,49.0
+19,1156096001,Doublure,Cuir,100.0
+20,1159124002,Couche extérieure,Polyester,100.0
+21,1159502001,Couche extérieure,Polyester,97.0
+22,1159502001,Couche extérieure,Élasthanne,3.0
+23,1159502001,Doublure,Polyester,100.0
+24,1180370002,Couche extérieure,Coton,100.0
+25,1180370002,Doublure,Polyester,100.0
+26,1139990003,Couche extérieure,Coton,100.0
+27,1139990003,Doublure de poche,Polyester,74.0
+28,1139990003,Doublure de poche,Coton,26.0
+29,1157505004,Doublure de poche,Polyester,80.0
+30,1157505004,Doublure de poche,Coton,20.0
+31,1157505004,Couche extérieure,Coton,100.0
+32,1157505003,Couche extérieure,Coton,100.0
+33,1157505003,Doublure de poche,Polyester,80.0
+34,1157505003,Doublure de poche,Coton,20.0
+35,1121055005,,Polyester,80.0
+36,1121055005,,Coton,20.0
+37,1150536002,Couche extérieure,Coton,98.0
+38,1150536002,Couche extérieure,Élasthanne,2.0
+39,1150536002,Doublure de poche,Coton,100.0
+40,1143631001,Doublure,Polyester,88.0
+41,1143631001,Doublure,Élasthanne,12.0
+42,1143631001,Couche extérieure,Polyester,80.0
+43,1143631001,Couche extérieure,Élasthanne,20.0
+44,1143741003,Doublure,Polyester,88.0
+45,1143741003,Doublure,Élasthanne,12.0
+46,1146993002,Doublure,Polyester,88.0
+47,1146993002,Doublure,Élasthanne,12.0
+48,1065604008,,Polyester,88.0
+49,1065604008,,Élasthanne,12.0
+50,1145749003,Doublure,Polyester,88.0
+51,1145749003,Doublure,Élasthanne,12.0
+52,1143696002,Doublure,Polyester,88.0
+53,1143696002,Doublure,Élasthanne,12.0
+54,1160136002,,Polyester,88.0
+55,1160136002,,Élasthanne,12.0
+56,1117683004,Couche extérieure,Polyamide,88.0
+57,1117683004,Couche extérieure,Élasthanne,12.0
+58,0928322113,Couche extérieure,Polyester,95.0
+59,0928322113,Couche extérieure,Élasthanne,5.0
+60,1144083002,Doublure,Polyester,88.0
+61,1144083002,Doublure,Élasthanne,12.0
+62,0953737017,Couche extérieure,Polyester,82.0
+63,0953737017,Couche extérieure,Élasthanne,18.0
+64,0953737017,Doublure,Polyester,88.0
+65,0953737017,Doublure,Élasthanne,12.0
+66,0953737017,Couche extérieure,Polyester,92.0
+67,0953737017,Couche extérieure,Élasthanne,8.0
+68,1046231006,Couche extérieure,Polyester,82.0
+69,1046231006,Couche extérieure,Élasthanne,18.0
+70,1123828004,Doublure,Polyester,88.0
+71,1123828004,Doublure,Élasthanne,12.0
+72,1125720006,,Polyester,88.0
+73,1125720006,,Élasthanne,12.0
+74,1147452001,,Polyester,88.0
+75,1147452001,,Élasthanne,12.0
+76,1170980001,Couche extérieure,Coton,100.0
+77,1170980001,Détails,Coton,100.0
+78,1170980001,Doublure,Coton,100.0
+79,1170980001,Broderie,Polyester,100.0
+80,1154667002,,Polyester,100.0
+81,1128713015,Couche extérieure,Viscose,68.0
+82,1128713015,Couche extérieure,Lin,32.0
+83,1128713015,Doublure,Polyester,100.0
+84,1154667001,,Polyester,100.0
+85,1153870002,,Polyester,100.0
+86,1163972002,,Polyester,100.0
+87,1136438001,Doublure,Polyuréthane,100.0
+88,1136438001,Semelle intérieure,Polyuréthane,100.0
+89,1136438001,Dessus,Polyuréthane,100.0
+90,0993840017,Doublure de poche,Polyester,80.0
+91,0993840017,Doublure de poche,Coton,20.0
+92,0993840017,Couche extérieure,Viscose,57.0
+93,0993840017,Couche extérieure,Lin,43.0
+94,1181795002,Couche extérieure,Coton,100.0
+95,1181795002,Couche intérieure,Polyester,100.0
+96,1155546001,Doublure,Polyester,100.0
+97,1155546001,Couche extérieure,Coton,100.0
+98,1147211002,,Coton,100.0
+99,1147246001,,Coton,100.0
+100,1153316001,Doublure,Polyester,93.0
+101,1153316001,Doublure,Élasthanne,7.0
+102,1153316001,Couche extérieure,Polyester,99.0
+103,1153316001,Couche extérieure,Élasthanne,1.0
+104,1065968014,Couche extérieure,Polyester,95.0
+105,1065968014,Couche extérieure,Élasthanne,5.0
+106,1065968014,Doublure,Polyester,93.0
+107,1065968014,Doublure,Élasthanne,7.0
+108,1147246002,,Polyester,93.0
+109,1147246002,,Élasthanne,7.0
+110,1147250001,Couche extérieure,Coton,100.0
+111,1147250001,Doublure,Polyester,100.0
+112,1139039002,,Polyester,100.0
+113,1156885002,,Polyester,100.0
+114,1170527002,,Polyester,100.0
+115,1169063001,,Polyester,100.0
+116,1175372002,Broderie,Polyester,100.0
+117,1175372002,Couche extérieure,Coton,100.0
+118,1131302001,Doublure,Polyester,100.0
+119,1156868003,,Polyester,100.0
+120,1162650001,,Polyester,100.0
+121,1161578001,Doublure,Polyester,93.0
+122,1161578001,Doublure,Élasthanne,7.0
+123,1161578001,Couche extérieure,Polyester,100.0
+124,1154179002,Doublure,Polyester,100.0
+125,1154179002,Taille,Polyester,100.0
+126,1154179002,Couche extérieure,Polyester,73.0
+127,1154179002,Couche extérieure,Coton,27.0
+128,1181795001,Couche intérieure,Polyester,100.0
+129,1181795001,Couche extérieure,Coton,100.0
+130,1186154001,Dentelle,Polyester,84.0
+131,1186154001,Dentelle,Élasthanne,16.0
+132,1186154001,Doublure de bonnet,Polyester,100.0
+133,1186154001,Couche extérieure,Polyester,95.0
+134,1186154001,Couche extérieure,Élasthanne,5.0
+135,1161577002,Doublure,Polyester,95.0
+136,1161577002,Doublure,Élasthanne,5.0
+137,1161577002,Couche extérieure,Polyester,66.0
+138,1161577002,Couche extérieure,Fibre métallisée,34.0
+139,1065968016,Doublure,Polyester,95.0
+140,1065968016,Doublure,Élasthanne,5.0
+141,1065968016,Filet,Polyester,95.0
+142,1065968016,Filet,Élasthanne,5.0
+143,1065968016,Couche extérieure,Polyester,98.0
+144,1065968016,Couche extérieure,Élasthanne,2.0
+145,1149913002,Couche extérieure,Polyester,100.0
+146,1149913002,Doublure,Polyester,100.0
+147,1171268001,,Polyester,100.0
+148,1169530002,,Polyester,100.0
+149,1171270002,,Polyester,100.0
+150,1171272001,,Polyester,100.0
+151,1158197001,,Polyester,100.0
+152,1171273001,,Polyester,100.0
+153,1164787002,,Polyester,100.0
+154,1167150002,,Polyester,100.0
+155,1163482002,,Polyester,100.0
+156,1155258004,Couche extérieure,Viscose,86.0
+157,1155258004,Couche extérieure,Polyamide,14.0
+158,1155258004,Doublure de poche,Polyester,100.0
+159,1153433001,Doublure,Polyester,72.0
+160,1153433001,Doublure,Coton,22.0
+161,1153433001,Doublure,Viscose,6.0
+162,1153433001,Dessus,Polyester,72.0
+163,1153433001,Dessus,Coton,22.0
+164,1153433001,Dessus,Viscose,6.0
+165,1161980001,,Polyester,72.0
+166,1161980001,,Coton,22.0
+167,1161980001,,Viscose,6.0
+168,1159608001,,Polyester,72.0
+169,1159608001,,Coton,22.0
+170,1159608001,,Viscose,6.0
+171,1172038006,Doublure,Polyester,100.0
+172,1172038006,Couche extérieure,Viscose,70.0
+173,1172038006,Couche extérieure,Lin,30.0
+174,1170334001,,Viscose,70.0
+175,1170334001,,Lin,30.0
+176,1122105006,,Viscose,70.0
+177,1122105006,,Lin,30.0
+178,1138003004,,Viscose,70.0
+179,1138003004,,Lin,30.0
+180,1169790004,,Viscose,70.0
+181,1169790004,,Lin,30.0
+182,1155541001,,Viscose,70.0
+183,1155541001,,Lin,30.0
+184,1133362002,Dessus,Polyuréthane,100.0
+185,1133362002,Semelle extérieure,Polyuréthane,51.0
+186,1133362002,Semelle extérieure,Polyuréthane thermoplastique,49.0
+187,1133362006,Semelle extérieure,Polyuréthane,51.0
+188,1133362006,Semelle extérieure,Polyuréthane thermoplastique,49.0
+189,1133362006,Dessus,Polyuréthane,100.0
+190,1145316001,,Polyuréthane,100.0
+191,1126311007,,Polyuréthane,100.0
+192,1130011001,,Polyuréthane,100.0
+193,1066559006,Couche extérieure,Lin,100.0
+194,1066559006,Doublure,Coton,100.0
+195,1162010003,,Coton,100.0
+196,1129084002,,Coton,100.0
+197,1163355001,Doublure,Cuir,100.0
+198,1163355001,Semelle extérieure,Éthylène-acétate de vinyle,100.0
+199,1163355001,Dessus,Cuir,100.0
+200,1128522002,,Cuir,100.0
+201,1144829001,,Cuir,100.0
+202,1128522001,,Cuir,100.0
+203,1156526003,Doublure,Polyester,100.0
+204,1156526003,Couche extérieure,Lin,53.0
+205,1156526003,Couche extérieure,Viscose,47.0
+206,1145337001,,Lin,53.0
+207,1145337001,,Viscose,47.0
+208,1125720005,,Lin,53.0
+209,1125720005,,Viscose,47.0
+210,0971104019,,Lin,53.0
+211,0971104019,,Viscose,47.0
+212,1126311002,,Lin,53.0
+213,1126311002,,Viscose,47.0
+214,0882925041,,Lin,53.0
+215,0882925041,,Viscose,47.0
+216,1058332025,Couche extérieure,Lin,100.0
+217,1058332025,Doublure de poche,Coton,100.0
+218,1157526005,,Coton,100.0
+219,1154469001,,Coton,100.0
+220,1154469004,,Coton,100.0
+221,1055982010,,Coton,100.0
+222,1157526001,,Coton,100.0
+223,1154866001,,Coton,100.0
+224,1169790001,,Coton,100.0
+225,1167768003,,Coton,100.0
+226,1164787001,,Coton,100.0
+227,1137490001,,Coton,100.0
+228,1135874005,,Coton,100.0
+229,1133227001,,Coton,100.0
+230,1141071004,Couche extérieure,Viscose,57.0
+231,1141071004,Couche extérieure,Lin,43.0
+232,1141071004,Doublure,Polyester,100.0
+233,1164061002,,Polyester,100.0
+234,1156885001,,Polyester,100.0
+235,1066926010,,Polyester,100.0
+236,1122105015,,Polyester,100.0
+237,1069414016,Couche extérieure,Coton,85.0
+238,1069414016,Couche extérieure,Viscose,10.0
+239,1069414016,Couche extérieure,Élasthanne,5.0
+240,1069414016,Couche extérieure,Coton,95.0
+241,1069414016,Couche extérieure,Élasthanne,5.0
+242,1069414016,Couche extérieure,Coton,94.0
+243,1069414016,Couche extérieure,Élasthanne,5.0
+244,1069414016,Couche extérieure,Viscose,1.0
+245,1069414016,Doublure intérieure entrejambe,Coton,100.0
+246,1178436001,,Coton,100.0
+247,1130014002,,Coton,100.0
+248,1153747002,Doublure,Polyuréthane,100.0
+249,1153747002,Dessus,Polyuréthane,100.0
+250,1155691001,,Polyuréthane,100.0
+251,1167253002,,Polyuréthane,100.0
+252,1132611006,Semelle extérieure,Polyuréthane thermoplastique,100.0
+253,1132611006,Doublure,Polyester,100.0
+254,1164422007,Doublure,Polyester,100.0
+255,1164422007,Couche extérieure,Viscose,55.0
+256,1164422007,Couche extérieure,Lin,45.0
+257,1145299001,,Viscose,55.0
+258,1145299001,,Lin,45.0
+259,1169732001,,Viscose,55.0
+260,1169732001,,Lin,45.0
+261,1129879003,Doublure intérieure entrejambe,Coton,100.0
+262,1129879003,Couche extérieure,Polyamide,96.0
+263,1129879003,Couche extérieure,Élasthanne,4.0
+264,1145276001,,Polyamide,96.0
+265,1145276001,,Élasthanne,4.0
+266,1152722002,Couche extérieure,Lin,55.0
+267,1152722002,Couche extérieure,Viscose,45.0
+268,1152722002,Doublure,Polyester,100.0
+269,1153730002,Semelle extérieure,Polyuréthane,51.0
+270,1153730002,Semelle extérieure,Polyuréthane thermoplastique,49.0
+271,1153730002,Dessus,Polyester,100.0
+272,1066926004,,Polyester,100.0
+273,1147534003,,Polyester,100.0
+274,1135874003,,Polyester,100.0
+275,1004271030,,Polyester,100.0
+276,1173451001,,Polyester,100.0
+277,1157325001,,Polyester,100.0
+278,1124621007,Doublure de poche,Polyester,100.0
+279,1124621007,Couche extérieure,Viscose,82.0
+280,1124621007,Couche extérieure,Lin,10.0
+281,1124621007,Couche extérieure,Polyester,8.0
+282,1134231012,,Viscose,82.0
+283,1134231012,,Lin,10.0
+284,1134231012,,Polyester,8.0
+285,1066926005,,Viscose,82.0
+286,1066926005,,Lin,10.0
+287,1066926005,,Polyester,8.0
+288,1140240003,Doublure intérieure entrejambe,Coton,100.0
+289,1140240003,Couche extérieure,Polyamide,80.0
+290,1140240003,Couche extérieure,Élasthanne,20.0
+291,1064008007,,Polyamide,80.0
+292,1064008007,,Élasthanne,20.0
+293,1110159004,,Polyamide,80.0
+294,1110159004,,Élasthanne,20.0
+295,1182222001,,Polyamide,80.0
+296,1182222001,,Élasthanne,20.0
+297,1167253001,,Polyamide,80.0
+298,1167253001,,Élasthanne,20.0
+299,1078982006,Couche extérieure,Lin,52.0
+300,1078982006,Couche extérieure,Coton,48.0
+301,1078982006,Doublure,Polyester,79.0
+302,1078982006,Doublure,Coton,21.0
+303,1126311004,,Polyester,79.0
+304,1126311004,,Coton,21.0
+305,1136891001,Dessus,Coton,80.0
+306,1136891001,Dessus,Jute,20.0
+307,1136891001,Semelle extérieure,Caoutchouc thermoplastique,100.0
+308,1136891001,Doublure,Polyester,100.0
+309,1147534014,,Polyester,100.0
+310,1156885003,,Polyester,100.0
+311,1110119003,,Polyester,100.0
+312,1154469003,,Polyester,100.0
+313,1164422006,Doublure,Polyester,100.0
+314,1164422006,Couche extérieure,Viscose,55.0
+315,1164422006,Couche extérieure,Lin,45.0
+316,1153138003,,Viscose,55.0
+317,1153138003,,Lin,45.0
+318,1066559010,Doublure,Coton,100.0
+319,1066559010,Couche extérieure,Lin,100.0
+320,1163293001,,Lin,100.0
+321,0975845043,,Lin,100.0
+322,1154780001,Semelle extérieure,Caoutchouc thermoplastique,100.0
+323,1154780001,Doublure,Polyester,100.0
+324,1154780001,Semelle intérieure,Polyuréthane,100.0
+325,1171670002,,Polyuréthane,100.0
+326,1156066001,,Polyuréthane,100.0
+327,1141260002,Doublure,Polyamide,88.0
+328,1141260002,Doublure,Élasthanne,12.0
+329,1141260002,Couche extérieure,Polyamide,86.0
+330,1141260002,Couche extérieure,Élasthanne,14.0
+331,1141260002,Maille,Polyester,100.0
+332,1163560010,,Polyester,100.0
+333,1155363004,,Polyester,100.0
+334,1130014005,,Polyester,100.0
+335,1169530003,,Polyester,100.0
+336,1143462001,Couche extérieure,Polyamide,81.0
+337,1143462001,Couche extérieure,Élasthanne,19.0
+338,1143462001,Doublure,Polyester,74.0
+339,1143462001,Doublure,Élasthanne,26.0
+340,1176080001,,Polyester,74.0
+341,1176080001,,Élasthanne,26.0
+342,1154595001,Doublure,Polyuréthane,100.0
+343,1154595001,Semelle extérieure,Polyuréthane,51.0
+344,1154595001,Semelle extérieure,Polyuréthane thermoplastique,49.0
+345,1154595001,Dessus,Polyuréthane,100.0
+346,1129186006,,Polyuréthane,100.0
+347,1113879004,Doublure,Polyester,88.0
+348,1113879004,Doublure,Élasthanne,12.0
+349,1142432002,Dessus,Polyester,90.0
+350,1142432002,Dessus,Coton,10.0
+351,1142432002,Semelle extérieure,Caoutchouc thermoplastique,100.0
+352,1142432002,Doublure,Polyester,90.0
+353,1142432002,Doublure,Coton,10.0
+354,1126311005,,Polyester,90.0
+355,1126311005,,Coton,10.0
+356,1175372001,Couche extérieure,Coton,100.0
+357,1175372001,Broderie,Polyester,100.0
+358,1154469007,,Polyester,100.0
+359,1157526003,,Polyester,100.0
+360,0762558286,,Polyester,100.0
+361,1122102002,,Polyester,100.0
+362,1163482001,,Polyester,100.0
+363,1150834002,Doublure,Polyester,72.0
+364,1150834002,Doublure,Élasthanne,28.0
+365,1107358006,,Polyester,72.0
+366,1107358006,,Élasthanne,28.0
+367,1155540003,,Polyester,72.0
+368,1155540003,,Élasthanne,28.0
+369,1173260001,,Polyester,72.0
+370,1173260001,,Élasthanne,28.0
+371,1127204007,Couche extérieure,Viscose,92.0
+372,1127204007,Couche extérieure,Polyamide,8.0
+373,1127204007,Doublure,Polyester,100.0
+374,1156970001,Côté,Polyamide,88.0
+375,1156970001,Côté,Élasthanne,12.0
+376,1156970001,Couche extérieure,Polyamide,85.0
+377,1156970001,Couche extérieure,Élasthanne,15.0
+378,1155288002,,Polyamide,85.0
+379,1155288002,,Élasthanne,15.0
+380,1058332029,Doublure de poche,Coton,100.0
+381,1058332029,Couche extérieure,Lin,100.0
+382,0952983005,Couche extérieure,Polyamide,86.0
+383,0952983005,Couche extérieure,Élasthanne,14.0
+384,0952983005,Doublure,Coton,100.0
+385,1155503003,,Coton,100.0
+386,1061773007,Couche extérieure,Polyamide,74.0
+387,1061773007,Couche extérieure,Élasthanne,26.0
+388,1061773007,Doublure intérieure entrejambe,Coton,100.0
+389,1061299023,,Coton,100.0
+390,0928212019,Doublure,Polyester,88.0
+391,0928212019,Doublure,Élasthanne,12.0
+392,1127754001,,Polyester,88.0
+393,1127754001,,Élasthanne,12.0
+394,1169074003,,Polyester,88.0
+395,1169074003,,Élasthanne,12.0
+396,1139090003,,Polyester,88.0
+397,1139090003,,Élasthanne,12.0
+398,1127754004,,Polyester,88.0
+399,1127754004,,Élasthanne,12.0
+400,1166178001,Couche extérieure,Polyester,100.0
+401,1166178001,Doublure,Polyester,100.0
+402,1154866003,,Polyester,100.0
+403,1143649004,Couche extérieure,Polyester,80.0
+404,1143649004,Couche extérieure,Élasthanne,20.0
+405,1140744001,,Polyester,80.0
+406,1140744001,,Élasthanne,20.0
+407,1164422003,Couche extérieure,Viscose,56.0
+408,1164422003,Couche extérieure,Lin,44.0
+409,1164422003,Doublure,Polyester,100.0
+410,1159092001,,Polyester,100.0
+411,1155258005,Doublure de poche,Polyester,100.0
+412,1155258005,Couche extérieure,Viscose,87.0
+413,1155258005,Couche extérieure,Polyamide,13.0
+414,1157397001,Semelle,Éthylène-acétate de vinyle,100.0
+415,1157397001,Semelle intérieure,Éthylène-acétate de vinyle,100.0
+416,1157397001,Doublure,Polyester,100.0
+417,1058024003,Couche extérieure,Polyester,100.0
+418,1058024003,Doublure,Polyester,100.0
+419,1162406002,Couche extérieure,Polyamide,77.0
+420,1162406002,Couche extérieure,Élasthanne,23.0
+421,1149157004,,Polyamide,77.0
+422,1149157004,,Élasthanne,23.0
+423,1147534013,,Polyamide,77.0
+424,1147534013,,Élasthanne,23.0
+425,1082177013,Doublure,Polyester,100.0
+426,1082177013,Couche extérieure,Polyester,100.0
+427,1137511001,,Polyester,100.0
+428,1158128002,Couche extérieure,Lin,53.0
+429,1158128002,Couche extérieure,Viscose,47.0
+430,1158128002,Doublure,Polyester,100.0
+431,1158178001,,Polyester,100.0
+432,1137241001,,Polyester,100.0
+433,0954891024,Doublure de poche,Coton,100.0
+434,0954891024,Couche extérieure,Lin,100.0
+435,1157064001,,Lin,100.0
+436,0806241025,,Lin,100.0
+437,1115511003,,Lin,100.0
+438,0998124028,,Lin,100.0
+439,1163560012,,Lin,100.0
+440,1177554001,Couche extérieure,Viscose,66.0
+441,1177554001,Couche extérieure,Polyamide,30.0
+442,1177554001,Couche extérieure,Élasthanne,4.0
+443,1177554001,Doublure,Viscose,100.0
+444,1162406001,"Côté, doublure",Polyamide,85.0
+445,1162406001,"Côté, doublure",Élasthanne,15.0
+446,1164406002,Couche extérieure,Viscose,55.0
+447,1164406002,Couche extérieure,Lin,45.0
+448,1164406002,Doublure,Polyester,100.0
+449,1172425001,,Polyester,100.0
+450,1152979003,Doublure,Polyester,100.0
+451,1152979003,Couche extérieure,Polyester,100.0
+452,1156866002,,Polyester,100.0
+453,1142428004,Dessus,Polyuréthane,100.0
+454,1142428004,Semelle extérieure,Éthylène-acétate de vinyle,100.0
+455,1038494004,Couche extérieure,Polyester,76.0
+456,1038494004,Couche extérieure,Élasthanne,24.0
+457,1129084006,,Polyester,76.0
+458,1129084006,,Élasthanne,24.0
+459,1153934001,,Polyester,76.0
+460,1153934001,,Élasthanne,24.0
+461,1129084005,,Polyester,76.0
+462,1129084005,,Élasthanne,24.0
+463,1189391001,,Polyester,76.0
+464,1189391001,,Élasthanne,24.0
+465,1170527001,,Polyester,76.0
+466,1170527001,,Élasthanne,24.0
+467,1164047001,Doublure de poche,Polyester,100.0
+468,1164047001,Couche extérieure,Polyester,53.0
+469,1164047001,Couche extérieure,Viscose,47.0
+470,1154185002,,Polyester,53.0
+471,1154185002,,Viscose,47.0
+472,1172106001,Doublure,Polyester,100.0
+473,1172106001,Couche extérieure,Viscose,55.0
+474,1172106001,Couche extérieure,Lin,45.0
+475,1174789002,,Viscose,55.0
+476,1174789002,,Lin,45.0
+477,1136439001,Dessus,Coton,100.0
+478,1136439001,Doublure,Coton,100.0
+479,1161980002,,Coton,100.0
+480,1170241001,,Coton,100.0
+481,1175987001,,Coton,100.0
+482,1039132008,Doublure,Polyester,79.0
+483,1039132008,Doublure,Élasthanne,21.0
+484,1039132008,Couche extérieure,Polyester,84.0
+485,1039132008,Couche extérieure,Élasthanne,16.0
+486,1156708002,Dentelle,Polyamide,100.0
+487,1033497008,,Polyamide,100.0
+488,1173320002,,Polyamide,100.0
+489,1166875007,,Polyamide,100.0
+490,1158560001,,Polyamide,100.0
+491,1130072003,Doublure,Polyester,100.0
+492,1130072003,Couche extérieure,Polyester,100.0
+493,0928457028,Doublure,Polyester,88.0
+494,0928457028,Doublure,Élasthanne,12.0
+495,1160901001,Dessus,Polypropylène,100.0
+496,1160901001,Doublure,Polyester,100.0
+497,1150326001,Couche extérieure,Polyamide,54.0
+498,1150326001,Couche extérieure,Élasthanne,46.0
+499,1132611005,Dessus,Polyuréthane,100.0
+500,1132611005,Semelle extérieure,Polyuréthane thermoplastique,100.0
+501,1150604002,,Polyuréthane thermoplastique,100.0
+502,1142424002,Semelle extérieure,Caoutchouc thermoplastique,100.0
+503,1142424002,Doublure,Polyester,100.0
+504,1142424002,Dessus,Polyuréthane,100.0
+505,1123078002,Couche extérieure,Polyamide,77.0
+506,1123078002,Couche extérieure,Élasthanne,23.0
+507,1122102004,,Polyamide,77.0
+508,1122102004,,Élasthanne,23.0
+509,1161939001,,Polyamide,77.0
+510,1161939001,,Élasthanne,23.0
+511,1158192001,Doublure de poche,Polyester,100.0
+512,1158192001,Couche extérieure,Polyester,100.0
+513,1158192001,Doublure,Polyester,100.0
+514,1139036006,,Polyester,100.0
+515,1135874004,,Polyester,100.0
+516,1061711008,Couche extérieure,Viscose,76.0
+517,1061711008,Couche extérieure,Polyester,15.0
+518,1061711008,Couche extérieure,Polyamide,9.0
+519,1061711008,Doublure,Polyester,100.0
+520,1136918001,Maille,Polyamide,84.0
+521,1136918001,Maille,Élasthanne,16.0
+522,1156066003,,Polyamide,84.0
+523,1156066003,,Élasthanne,16.0
+524,1159754002,Doublure de poche,Polyester,100.0
+525,1159754002,Couche extérieure,Viscose,55.0
+526,1159754002,Couche extérieure,Lin,45.0
+527,1152719002,Doublure,Polyester,100.0
+528,1152719002,Couche extérieure,Polyester,100.0
+529,0919129017,Couche extérieure,Polyester,96.0
+530,0919129017,Couche extérieure,Élasthanne,4.0
+531,1164061003,,Polyester,96.0
+532,1164061003,,Élasthanne,4.0
+533,1159496002,,Polyester,96.0
+534,1159496002,,Élasthanne,4.0
+535,1078982004,Doublure,Polyester,79.0
+536,1078982004,Doublure,Coton,21.0
+537,1078982004,Couche extérieure,Lin,52.0
+538,1078982004,Couche extérieure,Coton,48.0
+539,1159494002,,Lin,52.0
+540,1159494002,,Coton,48.0
+541,1157526002,,Lin,52.0
+542,1157526002,,Coton,48.0
+543,1163144001,,Lin,52.0
+544,1163144001,,Coton,48.0
+545,1171571001,,Lin,52.0
+546,1171571001,,Coton,48.0
+547,1145276004,,Lin,52.0
+548,1145276004,,Coton,48.0
+549,1191124001,,Lin,52.0
+550,1191124001,,Coton,48.0
+551,1163696001,,Lin,52.0
+552,1163696001,,Coton,48.0
+553,1134781004,,Lin,52.0
+554,1134781004,,Coton,48.0
+555,0971104022,,Lin,52.0
+556,0971104022,,Coton,48.0
+557,1157433005,,Lin,52.0
+558,1157433005,,Coton,48.0
+559,1069416009,,Lin,52.0
+560,1069416009,,Coton,48.0
+561,1172513004,Couche extérieure,Polyester,100.0
+562,1172513004,Doublure,Polyester,95.0
+563,1172513004,Doublure,Élasthanne,5.0
+564,1051634008,Couche extérieure,Polyester,92.0
+565,1051634008,Couche extérieure,Élasthanne,8.0
+566,1051634008,Doublure,Polyester,88.0
+567,1051634008,Doublure,Élasthanne,12.0
+568,1072374006,,Polyester,88.0
+569,1072374006,,Élasthanne,12.0
+570,1155258002,Couche extérieure,Viscose,87.0
+571,1155258002,Couche extérieure,Polyamide,13.0
+572,1155258002,Doublure de poche,Polyester,100.0
+573,1168432002,,Polyester,100.0
+574,1154595006,Semelle extérieure,Polyuréthane,51.0
+575,1154595006,Semelle extérieure,Polyuréthane thermoplastique,49.0
+576,1154595006,Dessus,Polyuréthane,100.0
+577,1154595006,Doublure,Polyuréthane,100.0
+578,1153284002,,Polyuréthane,100.0
+579,1157433004,,Polyuréthane,100.0
+580,1147610003,,Polyuréthane,100.0
+581,1123621003,,Polyuréthane,100.0
+582,1188993001,,Polyuréthane,100.0
+583,1151420003,Doublure,Coton,100.0
+584,1151420003,Semelle intérieure,Coton,60.0
+585,1151420003,Semelle intérieure,Jute,40.0
+586,1151420003,Semelle extérieure,Caoutchouc thermoplastique,100.0
+587,0919205011,Couche extérieure,Polyamide,87.0
+588,0919205011,Couche extérieure,Élasthanne,13.0
+589,1041723005,Doublure,Polyester,89.0
+590,1041723005,Doublure,Élasthanne,11.0
+591,1144763006,Couche extérieure,Coton,95.0
+592,1144763006,Couche extérieure,Élasthanne,5.0
+593,1140377004,Doublure,Polyester,88.0
+594,1140377004,Doublure,Élasthanne,12.0
+595,1167667003,,Polyester,88.0
+596,1167667003,,Élasthanne,12.0
+597,1144208007,Doublure de poche,Polyester,65.0
+598,1144208007,Doublure de poche,Coton,35.0
+599,1144208007,Couche extérieure,Coton,100.0
+600,1150817001,Couche extérieure,Polyamide,81.0
+601,1150817001,Couche extérieure,Élasthanne,19.0
+602,1140325002,,Polyamide,81.0
+603,1140325002,,Élasthanne,19.0
+604,1164493001,,Polyamide,81.0
+605,1164493001,,Élasthanne,19.0
+606,1192309001,,Polyamide,81.0
+607,1192309001,,Élasthanne,19.0
+608,1191113001,Doublure,Viscose,100.0
+609,1191113001,Couche extérieure,Polyester,100.0
+610,1145276003,,Polyester,100.0
+611,1147246003,,Polyester,100.0
+612,1150326002,"Côté, doublure",Polyamide,85.0
+613,1150326002,"Côté, doublure",Élasthanne,15.0
+614,1128669012,Couche extérieure,Polyester,77.0
+615,1128669012,Couche extérieure,Viscose,23.0
+616,1128669012,Doublure,Polyester,100.0
+617,1159230002,,Polyester,100.0
+618,1169530004,,Polyester,100.0
+619,1128595003,,Polyester,100.0
+620,1130012002,,Polyester,100.0
+621,1169074001,,Polyester,100.0
+622,1159123002,,Polyester,100.0
+623,0932278016,,Polyester,100.0
+624,1142439001,Couche extérieure,Polyester,80.0
+625,1142439001,Couche extérieure,Élasthanne,20.0
+626,1153563001,Dessus,Polyester,100.0
+627,1153563001,Semelle extérieure,Caoutchouc,100.0
+628,1153563001,Dessus,Coton,100.0
+629,1162567001,Doublure,Coton,100.0
+630,1162567001,Couche extérieure,Coton,100.0
+631,1161508001,,Coton,100.0
+632,1133227005,,Coton,100.0
+633,1164793002,,Coton,100.0
+634,1148100001,,Coton,100.0
+635,1139284002,Doublure,Polyester,95.0
+636,1139284002,Doublure,Élasthanne,5.0
+637,1139284002,Couche extérieure,Polyester,95.0
+638,1139284002,Couche extérieure,Élasthanne,5.0
+639,1164406004,Couche extérieure,Viscose,55.0
+640,1164406004,Couche extérieure,Lin,45.0
+641,1164406004,Doublure,Polyester,100.0
+642,1145757001,Doublure,Polyester,88.0
+643,1145757001,Doublure,Élasthanne,12.0
+644,0762470308,,Polyester,88.0
+645,0762470308,,Élasthanne,12.0
+646,0928322117,Couche extérieure,Polyester,96.0
+647,0928322117,Couche extérieure,Élasthanne,4.0
+648,1143660002,Doublure,Polyester,88.0
+649,1143660002,Doublure,Élasthanne,12.0
+650,1138771005,,Polyester,88.0
+651,1138771005,,Élasthanne,12.0
+652,1154667005,,Polyester,88.0
+653,1154667005,,Élasthanne,12.0
+654,1156866003,,Polyester,88.0
+655,1156866003,,Élasthanne,12.0
+656,1158432002,Doublure,Lyocell,100.0
+657,1158432002,Couche extérieure,Viscose,71.0
+658,1158432002,Couche extérieure,Soie,29.0
+659,1158698002,Couche extérieure,Polyester,95.0
+660,1158698002,Couche extérieure,Élasthanne,5.0
+661,1158698002,Doublure,Polyester,100.0
+662,1061300010,Doublure intérieure entrejambe,Coton,100.0
+663,1061300010,Couche extérieure,Polyamide,73.0
+664,1061300010,Couche extérieure,Élasthanne,27.0
+665,1143741001,Couche extérieure,Polyamide,88.0
+666,1143741001,Couche extérieure,Élasthanne,12.0
+667,1162163002,Couche extérieure,Viscose,72.0
+668,1162163002,Couche extérieure,Polyamide,28.0
+669,1162163002,Doublure,Polyester,80.0
+670,1162163002,Doublure,Coton,20.0
+671,1121065004,,Polyester,80.0
+672,1121065004,,Coton,20.0
+673,1172532001,Doublure,Élasthanne,95.0
+674,1172532001,Doublure,Polyester,5.0
+675,1172532001,Couche extérieure,Polyester,100.0
+676,0979237022,,Polyester,100.0
+677,1158207001,,Polyester,100.0
+678,1158817002,,Polyester,100.0
+679,1180209002,,Polyester,100.0
+680,1158917001,,Polyester,100.0
+681,0954891025,Doublure de poche,Coton,100.0
+682,0954891025,Couche extérieure,Lin,100.0
+683,1136819001,Doublure,Polyester,100.0
+684,1136819001,Dessus,Polyester,100.0
+685,1143472001,,Polyester,100.0
+686,1156099002,Semelle intérieure,Jute,100.0
+687,1156099002,Doublure,Cuir,100.0
+688,1156099002,Semelle,Caoutchouc thermoplastique,100.0
+689,1145337003,,Caoutchouc thermoplastique,100.0
+690,1180939001,,Caoutchouc thermoplastique,100.0
+691,1131902001,,Caoutchouc thermoplastique,100.0
+692,1164422004,Couche extérieure,Viscose,55.0
+693,1164422004,Couche extérieure,Lin,45.0
+694,1164422004,Doublure,Polyester,100.0
+695,1137680002,Couche extérieure,Viscose,76.0
+696,1137680002,Couche extérieure,Lin,24.0
+697,1137680002,Poche,Polyester,80.0
+698,1137680002,Poche,Coton,20.0
+699,1136436011,Couche extérieure,Polyester,94.0
+700,1136436011,Couche extérieure,Élasthanne,6.0
+701,1136436011,Dentelle,Polyamide,83.0
+702,1136436011,Dentelle,Élasthanne,17.0
+703,1142424001,Semelle intérieure,Coton,60.0
+704,1142424001,Semelle intérieure,Jute,40.0
+705,1142424001,Dessus,Polyuréthane,100.0
+706,1142424001,Doublure,Polyester,100.0
+707,1137490002,,Polyester,100.0
+708,0559616034,Couche extérieure,Polyester,80.0
+709,0559616034,Couche extérieure,Élasthanne,20.0
+710,1137030003,Dessus,Polyester,97.0
+711,1137030003,Dessus,Polytéréphtalate d'éthylène,3.0
+712,1137030003,Doublure,Polyuréthane,100.0
+713,1145749001,Doublure,Polyester,88.0
+714,1145749001,Doublure,Élasthanne,12.0
+715,1162183003,,Polyester,88.0
+716,1162183003,,Élasthanne,12.0
+717,1050247006,Doublures,Polyester,88.0
+718,1050247006,Doublures,Élasthanne,12.0
+719,1096331003,Couche extérieure,Polyamide,85.0
+720,1096331003,Couche extérieure,Élasthanne,15.0
+721,1096331003,Doublure intérieure entrejambe,Coton,100.0
+722,1096331003,Dentelle,Polyamide,80.0
+723,1096331003,Dentelle,Élasthanne,20.0
+724,1141121006,Dentelle,Polyamide,90.0
+725,1141121006,Dentelle,Élasthanne,10.0
+726,1141121006,Doublure,Polyester,100.0
+727,1173693001,Doublure,Polyester,100.0
+728,1173693001,Couche extérieure,Lyocell,85.0
+729,1173693001,Couche extérieure,Polyamide,15.0
+730,1061299018,,Lyocell,85.0
+731,1061299018,,Polyamide,15.0
+732,1177061005,,Lyocell,85.0
+733,1177061005,,Polyamide,15.0
+734,1156782002,,Lyocell,85.0
+735,1156782002,,Polyamide,15.0
+736,1162087001,Couche extérieure,Coton,53.0
+737,1162087001,Couche extérieure,Polyester,47.0
+738,1162087001,Doublure,Coton,100.0
+739,1164669003,Couche extérieure,Coton,100.0
+740,1164669003,Doublure,Coton,100.0
+741,1176740005,Couche extérieure,Viscose,100.0
+742,1176740005,Doublure,Polyester,100.0
+743,1159101001,Couche extérieure,Viscose,71.0
+744,1159101001,Couche extérieure,Soie,29.0
+745,1159101001,Doublure,Lyocell,100.0
+746,1145299002,,Lyocell,100.0
+747,1166178004,Couche extérieure,Polyester,100.0
+748,1166178004,Doublure,Polyester,100.0
+749,1163972004,,Polyester,100.0
+750,1132850002,,Polyester,100.0
+751,1059293011,Doublure,Polyester,82.0
+752,1059293011,Doublure,Élasthanne,18.0
+753,1146515004,Dessus,Polyester,100.0
+754,1146515004,Doublure,Polyester,100.0
+755,1122105008,,Polyester,100.0
+756,1166875004,,Polyester,100.0
+757,1153251001,,Polyester,100.0
+758,1135925001,Doublure,Polyester,77.0
+759,1135925001,Doublure,Coton,23.0
+760,1135925001,Couche extérieure,Coton,100.0
+761,1155580005,,Coton,100.0
+762,1154185003,,Coton,100.0
+763,1161742002,,Coton,100.0
+764,0967097014,Doublure,Polyamide,100.0
+765,1183077001,Doublure,Polyester,100.0
+766,1183077001,Couche extérieure,Viscose,52.0
+767,1183077001,Couche extérieure,Lin,48.0
+768,1145298001,,Viscose,52.0
+769,1145298001,,Lin,48.0
+770,1015780031,,Viscose,52.0
+771,1015780031,,Lin,48.0
+772,0776746037,,Viscose,52.0
+773,0776746037,,Lin,48.0
+774,1142153003,,Viscose,52.0
+775,1142153003,,Lin,48.0
+776,1126349004,Doublure intérieure entrejambe,Coton,100.0
+777,1126349004,Couche extérieure,Polyamide,85.0
+778,1126349004,Couche extérieure,Élasthanne,15.0
+779,1129527010,,Polyamide,85.0
+780,1129527010,,Élasthanne,15.0
+781,1110136005,,Polyamide,85.0
+782,1110136005,,Élasthanne,15.0
+783,1130118006,,Polyamide,85.0
+784,1130118006,,Élasthanne,15.0
+785,1094168009,Doublure intérieure entrejambe,Coton,100.0
+786,1094168009,Couche extérieure,Coton,95.0
+787,1094168009,Couche extérieure,Élasthanne,5.0
+788,1065424008,,Coton,95.0
+789,1065424008,,Élasthanne,5.0
+790,1198504001,Couche extérieure,Polyester,95.0
+791,1198504001,Couche extérieure,Élasthanne,5.0
+792,1198504001,Doublure,Polyester,100.0
+793,1161742001,,Polyester,100.0
+794,1176818001,,Polyester,100.0
+795,1076480005,Doublure,Polyamide,100.0
+796,1143666002,Doublure,Polyester,88.0
+797,1143666002,Doublure,Élasthanne,12.0
+798,1143670002,Doublure,Polyester,88.0
+799,1143670002,Doublure,Élasthanne,12.0
+800,1157808002,Doublure,Polyester,100.0
+801,1157808002,Couche extérieure,Polyester,95.0
+802,1157808002,Couche extérieure,Élasthanne,5.0
+803,1153087001,Doublure,Polyester,100.0
+804,1153087001,Dessus,Coton,100.0
+805,1139237002,Couche extérieure,Polyamide,64.0
+806,1139237002,Couche extérieure,Élasthanne,36.0
+807,1039132009,Couche extérieure,Polyester,84.0
+808,1039132009,Couche extérieure,Élasthanne,16.0
+809,1039132009,Doublure,Polyester,79.0
+810,1039132009,Doublure,Élasthanne,21.0
+811,1155189002,Doublure,Polyester,95.0
+812,1155189002,Doublure,Élasthanne,5.0
+813,1155189002,Couche extérieure,Polyester,75.0
+814,1155189002,Couche extérieure,Coton,25.0
+815,1164095002,Doublure,Lyocell,100.0
+816,1164095002,Couche extérieure,Lin,100.0
+817,1143660001,Doublure,Polyester,88.0
+818,1143660001,Doublure,Élasthanne,12.0
+819,1139240002,Doublure,Polyester,88.0
+820,1139240002,Doublure,Élasthanne,12.0
+821,1164882002,Doublure,Polyester,100.0
+822,1164882002,Couche extérieure,Polyester,98.0
+823,1164882002,Couche extérieure,Élasthanne,2.0
+824,0762470314,,Polyester,98.0
+825,0762470314,,Élasthanne,2.0
+826,0929321031,Doublure,Polyester,88.0
+827,0929321031,Doublure,Élasthanne,12.0
+828,1049251016,,Polyester,88.0
+829,1049251016,,Élasthanne,12.0
+830,1130072004,Couche extérieure,Polyester,100.0
+831,1130072004,Doublure,Polyester,100.0
+832,1146387001,,Polyester,100.0
+833,1164574001,Couche extérieure,Polyester,100.0
+834,1164574001,Doublure,Polyester,100.0
+835,1167701004,,Polyester,100.0
+836,1137680003,Poche,Polyester,80.0
+837,1137680003,Poche,Coton,20.0
+838,1137680003,Couche extérieure,Viscose,85.0
+839,1137680003,Couche extérieure,Lin,15.0
+840,0776746036,,Viscose,85.0
+841,0776746036,,Lin,15.0
+842,1164189002,Couche extérieure,Soie,100.0
+843,1164189002,Doublure,Lyocell,100.0
+844,1123625006,,Lyocell,100.0
+845,1164466001,,Lyocell,100.0
+846,1146865004,Dessus,Éthylène-acétate de vinyle,100.0
+847,1146865004,Semelle extérieure,Éthylène-acétate de vinyle,100.0
+848,1156069004,,Éthylène-acétate de vinyle,100.0
+849,1158470003,Couche extérieure,Viscose,81.0
+850,1158470003,Couche extérieure,Polyamide,19.0
+851,1158470003,Poche,Polyester,100.0
+852,1076480006,Doublure,Polyamide,100.0
+853,1157808001,Doublure,Polyester,100.0
+854,1157808001,Couche extérieure,Polyester,95.0
+855,1157808001,Couche extérieure,Élasthanne,5.0
+856,1162120001,,Polyester,95.0
+857,1162120001,,Élasthanne,5.0
+858,1156720004,,Polyester,95.0
+859,1156720004,,Élasthanne,5.0
+860,1131593004,,Polyester,95.0
+861,1131593004,,Élasthanne,5.0
+862,1140021004,,Polyester,95.0
+863,1140021004,,Élasthanne,5.0
+864,1175999001,,Polyester,95.0
+865,1175999001,,Élasthanne,5.0
+866,1163470002,Doublure,Viscose,100.0
+867,1163470002,Couche extérieure,Soie,100.0
+868,1156771002,Dentelle,Polyamide,100.0
+869,1156771002,Doublure intérieure entrejambe,Viscose,100.0
+870,1156771002,Couche extérieure,Polyamide,74.0
+871,1156771002,Couche extérieure,Élasthanne,26.0
+872,1171752003,,Polyamide,74.0
+873,1171752003,,Élasthanne,26.0
+874,1129988003,,Polyamide,74.0
+875,1129988003,,Élasthanne,26.0
+876,1030655006,,Polyamide,74.0
+877,1030655006,,Élasthanne,26.0
+878,1159008002,,Polyamide,74.0
+879,1159008002,,Élasthanne,26.0
+880,1153656005,Couche extérieure,Coton,95.0
+881,1153656005,Couche extérieure,Élasthanne,5.0
+882,1145738002,Couche extérieure,Polyester,80.0
+883,1145738002,Couche extérieure,Élasthanne,20.0
+884,1164406003,Doublure,Polyester,100.0
+885,1164406003,Couche extérieure,Viscose,55.0
+886,1164406003,Couche extérieure,Lin,45.0
+887,1147832001,Doublure,Coton,100.0
+888,1147832001,Couche extérieure,Polyester,94.0
+889,1147832001,Couche extérieure,Élasthanne,6.0
+890,1129986002,,Polyester,94.0
+891,1129986002,,Élasthanne,6.0
+892,1128588004,,Polyester,94.0
+893,1128588004,,Élasthanne,6.0
+894,1139778003,,Polyester,94.0
+895,1139778003,,Élasthanne,6.0
+896,1123777003,,Polyester,94.0
+897,1123777003,,Élasthanne,6.0
+898,1002471040,,Polyester,94.0
+899,1002471040,,Élasthanne,6.0
+900,1141200004,Doublure intérieure entrejambe,Coton,100.0
+901,1141200004,Couche extérieure,Coton,95.0
+902,1141200004,Couche extérieure,Élasthanne,5.0
+903,1191105001,,Coton,95.0
+904,1191105001,,Élasthanne,5.0
+905,1115592013,Doublure,Polyester,85.0
+906,1115592013,Doublure,Élasthanne,15.0
+907,1154467001,,Polyester,85.0
+908,1154467001,,Élasthanne,15.0
+909,0928322111,Couche extérieure,Polyester,80.0
+910,0928322111,Couche extérieure,Élasthanne,20.0
+911,1030655009,,Polyester,80.0
+912,1030655009,,Élasthanne,20.0
+913,1164762003,,Polyester,80.0
+914,1164762003,,Élasthanne,20.0
+915,1151507002,Dessus,Polyester,84.0
+916,1151507002,Dessus,Élastodiène,16.0
+917,1151507002,Semelle intérieure,Éthylène-acétate de vinyle,100.0
+918,1151507002,Doublure,Polyester,100.0
+919,1156793004,Couche extérieure,Polyester,100.0
+920,1156793004,Doublure,Polyester,100.0
+921,1058346007,Doublure de poche,Coton,100.0
+922,1058346007,Couche extérieure,Coton,100.0
+923,1164882001,Couche extérieure,Polyester,98.0
+924,1164882001,Couche extérieure,Élasthanne,2.0
+925,1164882001,Doublure,Polyester,100.0
+926,1158927002,Couche extérieure,Polyester,70.0
+927,1158927002,Couche extérieure,Polyamide,30.0
+928,1140325003,,Polyester,70.0
+929,1140325003,,Polyamide,30.0
+930,1174789001,,Polyester,70.0
+931,1174789001,,Polyamide,30.0
+932,1136437006,,Polyester,70.0
+933,1136437006,,Polyamide,30.0
+934,1154509003,,Polyester,70.0
+935,1154509003,,Polyamide,30.0
+936,1160003001,Doublure,Coton,95.0
+937,1160003001,Doublure,Élasthanne,5.0
+938,1160003001,Couche extérieure,Polyester,99.0
+939,1160003001,Couche extérieure,Élasthanne,1.0
+940,1170059002,,Polyester,99.0
+941,1170059002,,Élasthanne,1.0
+942,1150375001,Couche extérieure,Polyamide,80.0
+943,1150375001,Couche extérieure,Élasthanne,20.0
+944,1150375001,Doublure intérieure entrejambe,Coton,100.0
+945,1150375001,Maille,Polyamide,88.0
+946,1150375001,Maille,Élasthanne,12.0
+947,1115620006,Couche extérieure,Polyamide,82.0
+948,1115620006,Couche extérieure,Élasthanne,18.0
+949,1115620006,Doublure,Polyester,76.0
+950,1115620006,Doublure,Élasthanne,24.0
+951,1161111001,Couche extérieure,Coton,67.0
+952,1161111001,Couche extérieure,Polyester,33.0
+953,1059266006,Couche extérieure,Polyester,86.0
+954,1059266006,Couche extérieure,Élasthanne,14.0
+955,1158836001,,Polyester,86.0
+956,1158836001,,Élasthanne,14.0
+957,1143660005,Doublure,Polyester,88.0
+958,1143660005,Doublure,Élasthanne,12.0
+959,1131293003,,Polyester,88.0
+960,1131293003,,Élasthanne,12.0
+961,1195782001,,Polyester,88.0
+962,1195782001,,Élasthanne,12.0
+963,1134175003,Dessus,Polyuréthane,100.0
+964,1134175003,Doublure,Polyester,100.0
+965,1164047003,Couche extérieure,Polyester,53.0
+966,1164047003,Couche extérieure,Viscose,47.0
+967,1164047003,Doublure de poche,Polyester,100.0
+968,1183771001,,Polyester,100.0
+969,1184791003,,Polyester,100.0
+970,0928322110,Doublure,Polyester,88.0
+971,0928322110,Doublure,Élasthanne,12.0
+972,1173103002,,Polyester,88.0
+973,1173103002,,Élasthanne,12.0
+974,1158927001,,Polyester,88.0
+975,1158927001,,Élasthanne,12.0
+976,1121065012,,Polyester,88.0
+977,1121065012,,Élasthanne,12.0
+978,1143719001,,Polyester,88.0
+979,1143719001,,Élasthanne,12.0
+980,0776746035,,Polyester,88.0
+981,0776746035,,Élasthanne,12.0
+982,1160495002,Doublure,Polyester,100.0
+983,1160495002,Couche extérieure,Polyester,93.0
+984,1160495002,Couche extérieure,Élasthanne,7.0
+985,1129032003,,Polyester,93.0
+986,1129032003,,Élasthanne,7.0
+987,1122069003,,Polyester,93.0
+988,1122069003,,Élasthanne,7.0
+989,1182180002,,Polyester,93.0
+990,1182180002,,Élasthanne,7.0
+991,1139237001,Doublure,Polyester,88.0
+992,1139237001,Doublure,Élasthanne,12.0
+993,1139241002,Doublure,Polyester,88.0
+994,1139241002,Doublure,Élasthanne,12.0
+995,1198400001,Couche extérieure,Polyester,95.0
+996,1198400001,Couche extérieure,Élasthanne,5.0
+997,1198400001,Doublure,Polyester,95.0
+998,1198400001,Doublure,Élasthanne,5.0
+999,1175980001,,Polyester,95.0
+1000,1175980001,,Élasthanne,5.0
+1001,1167592001,Couche extérieure,Viscose,53.0
+1002,1167592001,Couche extérieure,Polyester,46.0
+1003,1167592001,Couche extérieure,Élasthanne,1.0
+1004,1167592001,Doublure de poche,Polyester,100.0
+1005,1168890001,,Polyester,100.0
+1006,1135356004,,Polyester,100.0
+1007,1155896002,,Polyester,100.0
+1008,1171004003,,Polyester,100.0
+1009,1182169002,,Polyester,100.0
+1010,1144763003,Couche extérieure,Coton,96.0
+1011,1144763003,Couche extérieure,Élasthanne,4.0
+1012,1161640001,,Coton,96.0
+1013,1161640001,,Élasthanne,4.0
+1014,1114608006,Couche extérieure,Polyester,96.0
+1015,1114608006,Couche extérieure,Élasthanne,4.0
+1016,1139739003,,Polyester,96.0
+1017,1139739003,,Élasthanne,4.0
+1018,0937413014,Couche extérieure,Polyamide,75.0
+1019,0937413014,Couche extérieure,Élasthanne,25.0
+1020,0937413014,Dentelle,Polyamide,89.0
+1021,0937413014,Dentelle,Élasthanne,11.0
+1022,0937413014,Doublure intérieure entrejambe,Coton,100.0
+1023,1110152002,Couche extérieure,Coton,100.0
+1024,1110152002,Doublure de poche,Coton,65.0
+1025,1110152002,Doublure de poche,Polyester,35.0
+1026,1144751001,Doublure,Polyester,92.0
+1027,1144751001,Doublure,Élasthanne,8.0
+1028,1144751001,Couche extérieure,Polyamide,80.0
+1029,1144751001,Couche extérieure,Élasthanne,20.0
+1030,1145855003,Doublure,Polyester,88.0
+1031,1145855003,Doublure,Élasthanne,12.0
+1032,1136382002,Semelle extérieure,Caoutchouc thermoplastique,100.0
+1033,1136382002,Dessus,Polyamide,100.0
+1034,1134472002,Semelle extérieure,Caoutchouc thermoplastique,100.0
+1035,1134472002,Semelle intérieure,Coton,60.0
+1036,1134472002,Semelle intérieure,Jute,40.0
+1037,1134472002,Dessus,Polyester,100.0
+1038,1128579004,,Polyester,100.0
+1039,1161121001,Dessus,Polyuréthane,100.0
+1040,1161121001,Semelle extérieure,Caoutchouc thermoplastique,100.0
+1041,1123078006,"Côté, doublure",Polyamide,85.0
+1042,1123078006,"Côté, doublure",Élasthanne,15.0
+1043,1156896001,Couche extérieure,Polyester,84.0
+1044,1156896001,Couche extérieure,Élasthanne,16.0
+1045,1156896001,Dentelle,Polyamide,85.0
+1046,1156896001,Dentelle,Élasthanne,15.0
+1047,1137030001,Semelle extérieure,Polyuréthane,51.0
+1048,1137030001,Semelle extérieure,Polyuréthane thermoplastique,49.0
+1049,1137030001,Doublure,Polyuréthane,100.0
+1050,1161508003,,Polyuréthane,100.0
+1051,1147449006,,Polyuréthane,100.0
+1052,1150835001,Couche extérieure,Polyester,85.0
+1053,1150835001,Couche extérieure,Élasthanne,15.0
+1054,1135364012,,Polyester,85.0
+1055,1135364012,,Élasthanne,15.0
+1056,1161644001,Couche extérieure,Lin,52.0
+1057,1161644001,Couche extérieure,Viscose,48.0
+1058,1161644001,Doublure,Coton,100.0
+1059,1173670002,,Coton,100.0
+1060,1084218009,,Coton,100.0
+1061,1173451003,,Coton,100.0
+1062,1060964004,,Coton,100.0
+1063,1157805002,Couche extérieure,Polyester,85.0
+1064,1157805002,Couche extérieure,Élasthanne,15.0
+1065,1157805002,Doublure,Polyester,85.0
+1066,1157805002,Doublure,Élasthanne,15.0
+1067,1084229012,,Polyester,85.0
+1068,1084229012,,Élasthanne,15.0
+1069,1161951002,Couche extérieure,Lin,53.0
+1070,1161951002,Couche extérieure,Viscose,47.0
+1071,1161951002,Doublure,Coton,100.0
+1072,1153290001,Doublure,Polyester,100.0
+1073,1153290001,Couche extérieure,Viscose,100.0
+1074,1070832006,Dessus,Jute,56.0
+1075,1070832006,Dessus,Coton,44.0
+1076,1070832006,Dessus,Polyester,72.0
+1077,1070832006,Dessus,Coton,22.0
+1078,1070832006,Dessus,Viscose,6.0
+1079,1070832006,Doublure,Polyester,100.0
+1080,1070832006,Semelle extérieure,Caoutchouc thermoplastique,100.0
+1081,1153745001,Doublure,Polyuréthane,100.0
+1082,1153745001,Semelle extérieure,Caoutchouc thermoplastique,100.0
+1083,1147832003,Doublure,Coton,100.0
+1084,1147832003,Couche extérieure,Polyester,94.0
+1085,1147832003,Couche extérieure,Élasthanne,6.0
+1086,1173432001,,Polyester,94.0
+1087,1173432001,,Élasthanne,6.0
+1088,1130118003,,Polyester,94.0
+1089,1130118003,,Élasthanne,6.0
+1090,1135085004,,Polyester,94.0
+1091,1135085004,,Élasthanne,6.0
+1092,1114253007,,Polyester,94.0
+1093,1114253007,,Élasthanne,6.0
+1094,1158221002,Couche extérieure,Polyester,100.0
+1095,1158221002,Doublure,Polyester,100.0
+1096,1140325001,,Polyester,100.0
+1097,1089883003,,Polyester,100.0
+1098,1185691004,,Polyester,100.0
+1099,1138833005,,Polyester,100.0
+1100,1138833005,,Polyester,100.0
+1101,1134783008,,Polyester,100.0
+1102,1194781001,,Polyester,100.0
+1103,1026876009,,Polyester,100.0
+1104,1141089001,Doublure,Polyuréthane,100.0
+1105,1141089001,Dessus,Polyuréthane,100.0
+1106,1130461006,,Polyuréthane,100.0
+1107,1075646028,Doublure intérieure entrejambe,Coton,100.0
+1108,1075646028,Dentelle,Polyamide,96.0
+1109,1075646028,Dentelle,Élasthanne,4.0
+1110,1072374007,,Polyamide,96.0
+1111,1072374007,,Élasthanne,4.0
+1112,1145833001,Doublure,Polyester,88.0
+1113,1145833001,Doublure,Élasthanne,12.0
+1114,1162521001,,Polyester,88.0
+1115,1162521001,,Élasthanne,12.0
+1116,1143649005,Couche extérieure,Polyester,80.0
+1117,1143649005,Couche extérieure,Élasthanne,20.0
+1118,1169571001,,Polyester,80.0
+1119,1169571001,,Élasthanne,20.0
+1120,1146395001,Doublure,Polyester,89.0
+1121,1146395001,Doublure,Élasthanne,11.0
+1122,1155748005,,Polyester,89.0
+1123,1155748005,,Élasthanne,11.0
+1124,1150536006,Doublure de poche,Coton,100.0
+1125,1150536006,Couche extérieure,Coton,98.0
+1126,1150536006,Couche extérieure,Élasthanne,2.0
+1127,1168764001,Doublure,Coton,100.0
+1128,1168764001,Dessus,Coton,80.0
+1129,1168764001,Dessus,Polyester,20.0
+1130,1156872001,Doublure,Coton,100.0
+1131,1156872001,Couche extérieure,Coton,100.0
+1132,1153095001,Couche extérieure,Polyester,100.0
+1133,1153095001,Doublure,Polyester,100.0
+1134,1163965001,,Polyester,100.0
+1135,0980930031,,Polyester,100.0
+1136,0773757020,,Polyester,100.0
+1137,1134790001,,Polyester,100.0
+1138,1149170001,Doublure de poche,Polyester,80.0
+1139,1149170001,Doublure de poche,Coton,20.0
+1140,1149170001,Couche extérieure,Polyamide,100.0
+1141,1127521006,Couche extérieure,Polyamide,89.0
+1142,1127521006,Couche extérieure,Élasthanne,11.0
+1143,1127521006,Doublure,Polyester,100.0
+1144,1165281001,,Polyester,100.0
+1145,1157805001,Doublure,Polyester,85.0
+1146,1157805001,Doublure,Élasthanne,15.0
+1147,1157805001,Couche extérieure,Polyester,85.0
+1148,1157805001,Couche extérieure,Élasthanne,15.0
+1149,1180245001,Doublure,Polyester,100.0
+1150,1180245001,Couche extérieure,Lyocell,84.0
+1151,1180245001,Couche extérieure,Polyamide,16.0
+1152,1153415002,,Lyocell,84.0
+1153,1153415002,,Polyamide,16.0
+1154,1172365001,Couche extérieure,Polyester,100.0
+1155,1148345002,,Polyester,100.0
+1156,1076480007,Doublure,Polyamide,100.0
+1157,1166236001,,Polyamide,100.0
+1158,1155960001,,Polyamide,100.0
+1159,1131782003,,Polyamide,100.0
+1160,1148345005,,Polyamide,100.0
+1161,1158879001,Couche extérieure,Viscose,84.0
+1162,1158879001,Couche extérieure,Lin,16.0
+1163,1158879001,Doublure,Polyester,80.0
+1164,1158879001,Doublure,Coton,20.0
+1165,1178222001,,Polyester,80.0
+1166,1178222001,,Coton,20.0
+1167,1148172004,,Polyester,80.0
+1168,1148172004,,Coton,20.0
+1169,1176882001,,Polyester,80.0
+1170,1176882001,,Coton,20.0
+1171,1131782004,,Polyester,80.0
+1172,1131782004,,Coton,20.0
+1173,1154553001,,Polyester,80.0
+1174,1154553001,,Coton,20.0
+1175,1167406004,Couche extérieure,Polyester,80.0
+1176,1167406004,Couche extérieure,Viscose,18.0
+1177,1167406004,Couche extérieure,Élasthanne,2.0
+1178,1167406004,Doublure,Polyester,100.0
+1179,1161640002,,Polyester,100.0
+1180,1090691008,,Polyester,100.0
+1181,1157711001,Couche extérieure,Polyester,98.0
+1182,1157711001,Couche extérieure,Élasthanne,2.0
+1183,1157711001,Doublure,Polyester,100.0
+1184,1171004002,,Polyester,100.0
+1185,1147831004,,Polyester,100.0
+1186,1133236003,,Polyester,100.0
+1187,1158470002,Poche,Polyester,100.0
+1188,1158470002,Couche extérieure,Viscose,81.0
+1189,1158470002,Couche extérieure,Polyamide,19.0
+1190,1134497005,Couche extérieure,Polyamide,84.0
+1191,1134497005,Couche extérieure,Élasthanne,16.0
+1192,1134497005,Doublure intérieure entrejambe,Coton,100.0
+1193,1030655007,,Coton,100.0
+1194,1031819016,Couche extérieure,Coton,100.0
+1195,1161779014,,Coton,100.0
+1196,1159494003,,Coton,100.0
+1197,1124757010,Maille,Polyamide,84.0
+1198,1124757010,Maille,Élasthanne,16.0
+1199,1039132010,Couche extérieure,Polyester,84.0
+1200,1039132010,Couche extérieure,Élasthanne,16.0
+1201,1039132010,Doublure,Polyester,79.0
+1202,1039132010,Doublure,Élasthanne,21.0
+1203,1132688004,,Polyester,79.0
+1204,1132688004,,Élasthanne,21.0
+1205,1167511001,Doublure,Polyester,100.0
+1206,1167511001,Couche extérieure,Lyocell,77.0
+1207,1167511001,Couche extérieure,Polyamide,23.0
+1208,1152011006,Doublure,Polyester,100.0
+1209,1152011006,Couche extérieure,Polyester,100.0
+1210,1152011002,Doublure,Polyester,100.0
+1211,1152011002,Couche extérieure,Polyester,100.0
+1212,1110140004,Doublure de poche,Polyester,65.0
+1213,1110140004,Doublure de poche,Coton,35.0
+1214,1110140004,Couche extérieure,Coton,82.0
+1215,1110140004,Couche extérieure,Polyester,17.0
+1216,1110140004,Couche extérieure,Élasthanne,1.0
+1217,1191556001,,Coton,82.0
+1218,1191556001,,Polyester,17.0
+1219,1191556001,,Élasthanne,1.0
+1220,1147211003,,Coton,82.0
+1221,1147211003,,Polyester,17.0
+1222,1147211003,,Élasthanne,1.0
+1223,1033197019,,Coton,82.0
+1224,1033197019,,Polyester,17.0
+1225,1033197019,,Élasthanne,1.0
+1226,1132850001,,Coton,82.0
+1227,1132850001,,Polyester,17.0
+1228,1132850001,,Élasthanne,1.0
+1229,1180352001,,Coton,82.0
+1230,1180352001,,Polyester,17.0
+1231,1180352001,,Élasthanne,1.0
+1232,1121055013,,Coton,82.0
+1233,1121055013,,Polyester,17.0
+1234,1121055013,,Élasthanne,1.0
+1235,1134305003,,Coton,82.0
+1236,1134305003,,Polyester,17.0
+1237,1134305003,,Élasthanne,1.0
+1238,0875635036,,Coton,82.0
+1239,0875635036,,Polyester,17.0
+1240,0875635036,,Élasthanne,1.0
+1241,1150850001,Couche extérieure,Polyamide,86.0
+1242,1150850001,Couche extérieure,Élasthanne,14.0
+1243,1121065011,,Polyamide,86.0
+1244,1121065011,,Élasthanne,14.0
+1245,1153520002,,Polyamide,86.0
+1246,1153520002,,Élasthanne,14.0
+1247,1176024001,Couche extérieure,Coton,100.0
+1248,1150536001,Couche extérieure,Coton,98.0
+1249,1150536001,Couche extérieure,Élasthanne,2.0
+1250,1150536001,Doublure de poche,Coton,100.0
+1251,1180370001,Doublure,Polyester,100.0
+1252,1180370001,Couche extérieure,Coton,100.0
+1253,1047224014,Couche extérieure,Coton,55.0
+1254,1047224014,Couche extérieure,Polyester,45.0
+1255,1047224014,Doublure de poche,Coton,100.0
+1256,1144324001,Doublure de poche,Polyester,65.0
+1257,1144324001,Doublure de poche,Coton,35.0
+1258,1144324001,Couche extérieure,Coton,99.0
+1259,1144324001,Couche extérieure,Élasthanne,1.0
+1260,1154502001,Couche extérieure,Coton,79.0
+1261,1154502001,Couche extérieure,Polyester,21.0
+1262,1154502001,Doublure de poche,Coton,100.0
+1263,1063184005,,Coton,100.0
+1264,1156755003,,Coton,100.0
+1265,1133227006,,Coton,100.0
+1266,1108549007,,Coton,100.0
+1267,1131785006,,Coton,100.0
+1268,1175847002,,Coton,100.0
+1269,1139185003,,Coton,100.0
+1270,1176200001,,Coton,100.0
+1271,0934966025,Couche extérieure,Coton,72.0
+1272,0934966025,Couche extérieure,Polyester,27.0
+1273,0934966025,Couche extérieure,Élasthanne,1.0
+1274,1160003003,Doublure,Coton,95.0
+1275,1160003003,Doublure,Élasthanne,5.0
+1276,1160003003,Couche extérieure,Polyester,99.0
+1277,1160003003,Couche extérieure,Élasthanne,1.0
+1278,1142441001,Couche extérieure,Polyamide,86.0
+1279,1142441001,Couche extérieure,Élasthanne,14.0
+1280,1142441001,Maille,Polyamide,100.0
+1281,1146387002,,Polyamide,100.0
+1282,1158704001,,Polyamide,100.0
+1283,1157866001,,Polyamide,100.0
+1284,1151390002,Dessus,Polyuréthane,100.0
+1285,1151390002,Semelle extérieure,Polyuréthane,51.0
+1286,1151390002,Semelle extérieure,Polyuréthane thermoplastique,49.0
+1287,1047114021,,Polyuréthane,51.0
+1288,1047114021,,Polyuréthane thermoplastique,49.0
+1289,1142442001,Doublure,Polyester,88.0
+1290,1142442001,Doublure,Élasthanne,12.0
+1291,1176883001,,Polyester,88.0
+1292,1176883001,,Élasthanne,12.0
+1293,1155498001,Doublure,Polyester,100.0
+1294,1196966002,Couche extérieure,Polyester,88.0
+1295,1196966002,Couche extérieure,Élasthanne,12.0
+1296,1148345001,,Polyester,88.0
+1297,1148345001,,Élasthanne,12.0
+1298,1152719003,Doublure,Polyester,100.0
+1299,1152719003,Couche extérieure,Polyester,100.0
+1300,1156355001,Doublure,Lyocell,69.0
+1301,1156355001,Doublure,Viscose,31.0
+1302,1156355001,Couche extérieure,Soie,37.0
+1303,1156355001,Couche extérieure,Coton,32.0
+1304,1156355001,Couche extérieure,Polyamide,31.0
+1305,0559630046,Doublure,Polyester,88.0
+1306,0559630046,Doublure,Élasthanne,12.0
+1307,1152721005,,Polyester,88.0
+1308,1152721005,,Élasthanne,12.0
+1309,1153252001,Doublure de poche,Polyester,80.0
+1310,1153252001,Doublure de poche,Coton,20.0
+1311,1153252001,Couche extérieure,Coton,99.0
+1312,1153252001,Couche extérieure,Élasthanne,1.0
+1313,1155748004,,Coton,99.0
+1314,1155748004,,Élasthanne,1.0
+1315,1151442002,Doublure,Polyuréthane,100.0
+1316,1151442002,Semelle extérieure,Caoutchouc thermoplastique,100.0
+1317,1134273003,Doublure,Polyuréthane,100.0
+1318,1134273003,Dessus,Jute,56.0
+1319,1134273003,Dessus,Coton,44.0
+1320,1161579002,,Jute,56.0
+1321,1161579002,,Coton,44.0
+1322,1117958004,Couche extérieure,Polyamide,88.0
+1323,1117958004,Couche extérieure,Élasthanne,12.0
+1324,1160495003,Couche extérieure,Polyester,93.0
+1325,1160495003,Couche extérieure,Élasthanne,7.0
+1326,1160495003,Doublure,Polyester,100.0
+1327,1166175001,,Polyester,100.0
+1328,1074595021,,Polyester,100.0
+1329,1196874002,,Polyester,100.0
+1330,1171670004,,Polyester,100.0
+1331,1182125002,,Polyester,100.0
+1332,1167916002,Couche extérieure,Coton,85.0
+1333,1167916002,Couche extérieure,Élasthanne,15.0
+1334,1167916002,Doublure intérieure entrejambe,Coton,100.0
+1335,1048956010,,Coton,100.0
+1336,1154502002,Doublure de poche,Coton,100.0
+1337,1154502002,Couche extérieure,Coton,77.0
+1338,1154502002,Couche extérieure,Polyester,23.0
+1339,1191111001,,Coton,77.0
+1340,1191111001,,Polyester,23.0
+1341,1158839005,Doublure,Polyester,97.0
+1342,1158839005,Doublure,Élasthanne,3.0
+1343,1158839005,Couche extérieure,Polyester,90.0
+1344,1158839005,Couche extérieure,Élasthanne,10.0
+1345,1157410003,,Polyester,90.0
+1346,1157410003,,Élasthanne,10.0
+1347,1110715008,Couche extérieure,Polyamide,85.0
+1348,1110715008,Couche extérieure,Élasthanne,15.0
+1349,1145190002,,Polyamide,85.0
+1350,1145190002,,Élasthanne,15.0
+1351,1137524003,,Polyamide,85.0
+1352,1137524003,,Élasthanne,15.0
+1353,1161639003,,Polyamide,85.0
+1354,1161639003,,Élasthanne,15.0
+1355,1183679002,,Polyamide,85.0
+1356,1183679002,,Élasthanne,15.0
+1357,1138080001,Enduit,Polyuréthane,100.0
+1358,1138080001,Couche extérieure,Polyester,94.0
+1359,1138080001,Couche extérieure,Élasthanne,6.0
+1360,1123007011,,Polyester,94.0
+1361,1123007011,,Élasthanne,6.0
+1362,1191106001,,Polyester,94.0
+1363,1191106001,,Élasthanne,6.0
+1364,1157505002,Doublure de poche,Polyester,81.0
+1365,1157505002,Doublure de poche,Élasthanne,19.0
+1366,1157505002,Couche extérieure,Viscose,85.0
+1367,1157505002,Couche extérieure,Polyamide,15.0
+1368,1154969001,Doublure,Polyester,88.0
+1369,1154969001,Doublure,Élasthanne,12.0
+1370,1148345003,,Polyester,88.0
+1371,1148345003,,Élasthanne,12.0
+1372,1113261008,Doublure de poche,Polyester,65.0
+1373,1113261008,Doublure de poche,Coton,35.0
+1374,1113261008,Couche extérieure,Coton,99.0
+1375,1113261008,Couche extérieure,Élasthanne,1.0
+1376,1134770005,,Coton,99.0
+1377,1134770005,,Élasthanne,1.0
+1378,1166236002,,Coton,99.0
+1379,1166236002,,Élasthanne,1.0
+1380,0946590015,Couche extérieure,Polyester,85.0
+1381,0946590015,Couche extérieure,Élasthanne,15.0
+1382,0946590015,Matelassé,Polyester,100.0
+1383,1139714003,Couche extérieure,Polyester,100.0
+1384,1139714003,Doublure,Polyester,100.0
+1385,0568808030,,Polyester,100.0
+1386,1158988002,,Polyester,100.0
+1387,1058340011,Couche extérieure,Viscose,58.0
+1388,1058340011,Couche extérieure,Lin,42.0
+1389,1058340011,Doublure de poche,Coton,100.0
+1390,1197205001,Couche extérieure,Polyester,71.0
+1391,1197205001,Couche extérieure,Élasthanne,29.0
+1392,1197205001,Ceinture,Polyester,90.0
+1393,1197205001,Ceinture,Élasthanne,10.0
+1394,1130461004,,Polyester,90.0
+1395,1130461004,,Élasthanne,10.0
+1396,1150815001,Couche extérieure,Polyester,85.0
+1397,1150815001,Couche extérieure,Élasthanne,15.0
+1398,0929328085,Doublure,Polyester,88.0
+1399,0929328085,Doublure,Élasthanne,12.0
+1400,1089865005,Couche extérieure,Coton,95.0
+1401,1089865005,Couche extérieure,Élasthanne,5.0
+1402,1089865005,Doublure,Coton,100.0
+1403,1096116008,Doublure,Polyester,87.0
+1404,1096116008,Doublure,Élasthanne,13.0
+1405,1151510002,Semelle extérieure,Caoutchouc thermoplastique,100.0
+1406,1151510002,Semelle intérieure,Coton,100.0
+1407,1151510002,Dessus,Coton,100.0
+1408,1141351003,Semelle,Caoutchouc,100.0
+1409,1159343002,Couche extérieure,Polyamide,93.0
+1410,1159343002,Couche extérieure,Élasthanne,7.0
+1411,1159343002,Doublure intérieure entrejambe,Coton,100.0
+1412,0928322115,Doublure,Polyester,88.0
+1413,0928322115,Doublure,Élasthanne,12.0
+1414,1148694001,,Polyester,88.0
+1415,1148694001,,Élasthanne,12.0
+1416,1167299002,,Polyester,88.0
+1417,1167299002,,Élasthanne,12.0
+1418,1117958003,Couche extérieure,Polyamide,88.0
+1419,1117958003,Couche extérieure,Élasthanne,12.0
+1420,1134555002,,Polyamide,88.0
+1421,1134555002,,Élasthanne,12.0
+1422,1128496004,,Polyamide,88.0
+1423,1128496004,,Élasthanne,12.0
+1424,1157872002,,Polyamide,88.0
+1425,1157872002,,Élasthanne,12.0
+1426,1169913002,,Polyamide,88.0
+1427,1169913002,,Élasthanne,12.0
+1428,1051634012,Couche extérieure,Polyester,94.0
+1429,1051634012,Couche extérieure,Élasthanne,6.0
+1430,0929328082,Doublure,Polyester,88.0
+1431,0929328082,Doublure,Élasthanne,12.0
+1432,1104759009,Doublure intérieure entrejambe,Coton,100.0
+1433,1104759009,Couche extérieure,Polyamide,83.0
+1434,1104759009,Couche extérieure,Élasthanne,17.0
+1435,1104759009,Couche extérieure,Coton,95.0
+1436,1104759009,Couche extérieure,Élasthanne,5.0
+1437,1134791007,,Coton,95.0
+1438,1134791007,,Élasthanne,5.0
+1439,1150817002,Couche extérieure,Polyester,85.0
+1440,1150817002,Couche extérieure,Élasthanne,15.0
+1441,1161536001,Bas,Polyamide,86.0
+1442,1161536001,Bas,Élasthanne,14.0
+1443,1161536001,Devant,Polyamide,80.0
+1444,1161536001,Devant,Élasthanne,20.0
+1445,1161536001,Doublure intérieure entrejambe,Coton,100.0
+1446,1140226002,,Coton,100.0
+1447,1170059008,,Coton,100.0
+1448,1150469006,,Coton,100.0
+1449,1155396002,,Coton,100.0
+1450,1090691009,,Coton,100.0
+1451,1149170006,Doublure de poche,Polyester,80.0
+1452,1149170006,Doublure de poche,Coton,20.0
+1453,1149170006,Couche extérieure,Polyamide,100.0
+1454,1158596001,,Polyamide,100.0
+1455,1159243001,Doublure,Cuir,100.0
+1456,1159243001,Semelle intérieure,Cuir velours,100.0
+1457,1159243001,Doublure,Coton,100.0
+1458,1159243001,Dessus,Cuir velours,100.0
+1459,1048956007,,Cuir velours,100.0
+1460,1170059011,,Cuir velours,100.0
+1461,1145258002,,Cuir velours,100.0
+1462,1169063002,,Cuir velours,100.0
+1463,1161535001,Couche extérieure,Polyamide,85.0
+1464,1161535001,Couche extérieure,Élasthanne,15.0
+1465,1182897001,Doublure,Polyamide,88.0
+1466,1182897001,Doublure,Élasthanne,12.0
+1467,1022138008,,Polyamide,88.0
+1468,1022138008,,Élasthanne,12.0
+1469,1082047009,,Polyamide,88.0
+1470,1082047009,,Élasthanne,12.0
+1471,1188391001,,Polyamide,88.0
+1472,1188391001,,Élasthanne,12.0
+1473,1115620003,Doublure,Polyester,76.0
+1474,1115620003,Doublure,Élasthanne,24.0
+1475,1115620003,Maille,Polyamide,84.0
+1476,1115620003,Maille,Élasthanne,16.0
+1477,1178300002,,Polyamide,84.0
+1478,1178300002,,Élasthanne,16.0
+1479,1121461002,Couche extérieure,Coton,100.0
+1480,1136317004,Dessus,Coton,100.0
+1481,1136317004,Doublure,Coton,100.0
+1482,1136317004,Semelle intérieure,Coton,100.0
+1483,1155757002,Dentelle,Polyamide,92.0
+1484,1155757002,Dentelle,Élasthanne,8.0
+1485,1155757002,Couche extérieure,Polyamide,96.0
+1486,1155757002,Couche extérieure,Élasthanne,4.0
+1487,1155757002,Doublure intérieure entrejambe,Coton,100.0
+1488,1159343004,Couche extérieure,Polyamide,93.0
+1489,1159343004,Couche extérieure,Élasthanne,7.0
+1490,1159343004,Doublure intérieure entrejambe,Coton,100.0
+1491,1182228001,,Coton,100.0
+1492,1170074009,,Coton,100.0
+1493,1128562006,Couche extérieure,Viscose,94.0
+1494,1128562006,Couche extérieure,Élasthanne,6.0
+1495,1128562006,Doublure,Viscose,100.0
+1496,1171299001,Doublure,Polyester,100.0
+1497,1171299001,Couche extérieure,Polyamide,85.0
+1498,1171299001,Couche extérieure,Viscose,15.0
+1499,1129084011,,Polyamide,85.0
+1500,1129084011,,Viscose,15.0
+1501,1158858001,,Polyamide,85.0
+1502,1158858001,,Viscose,15.0
+1503,1062687017,,Polyamide,85.0
+1504,1062687017,,Viscose,15.0
+1505,1189442001,,Polyamide,85.0
+1506,1189442001,,Viscose,15.0
+1507,1158865001,Doublure,Polyester,100.0
+1508,1158865001,Couche extérieure,Polyester,82.0
+1509,1158865001,Couche extérieure,Élasthanne,18.0
+1510,1167573006,,Polyester,82.0
+1511,1167573006,,Élasthanne,18.0
+1512,1171004006,,Polyester,82.0
+1513,1171004006,,Élasthanne,18.0
+1514,1154801001,,Polyester,82.0
+1515,1154801001,,Élasthanne,18.0
+1516,1153527004,,Polyester,82.0
+1517,1153527004,,Élasthanne,18.0
+1518,1167094004,Doublure,Polyester,100.0
+1519,1167094004,Couche extérieure,Viscose,82.0
+1520,1167094004,Couche extérieure,Polyester,18.0
+1521,1134555001,,Viscose,82.0
+1522,1134555001,,Polyester,18.0
+1523,1158865002,Doublure,Polyester,100.0
+1524,1158865002,Couche extérieure,Polyester,86.0
+1525,1158865002,Couche extérieure,Élasthanne,14.0
+1526,1156106002,Semelle extérieure,Caoutchouc thermoplastique,100.0
+1527,1156106002,Dessus,Cuir,100.0
+1528,1152951002,Doublure,Polyamide,85.0
+1529,1152951002,Doublure,Élasthanne,15.0
+1530,1141676002,Doublure de bonnet,Polyester,100.0
+1531,1141676002,Maille,Polyester,100.0
+1532,1141676002,Couche extérieure,Polyamide,97.0
+1533,1141676002,Couche extérieure,Élasthanne,3.0
+1534,1136170004,,Polyamide,97.0
+1535,1136170004,,Élasthanne,3.0
+1536,1159798001,,Polyamide,97.0
+1537,1159798001,,Élasthanne,3.0
+1538,1168381001,,Polyamide,97.0
+1539,1168381001,,Élasthanne,3.0
+1540,1139918002,Doublure de manche,Polyester,52.0
+1541,1139918002,Doublure de manche,Viscose,48.0
+1542,1139918002,Doublure,Coton,100.0
+1543,1139918002,Couche extérieure,Soie,78.0
+1544,1139918002,Couche extérieure,Lin,22.0
+1545,1157860002,Couche extérieure,Coton,100.0
+1546,1157860002,Doublure,Coton,100.0
+1547,1153255002,,Coton,100.0
+1548,1154081001,,Coton,100.0
+1549,1157864001,Doublure,Coton,100.0
+1550,1157864001,Couche extérieure,Coton,100.0
+1551,1151399001,Doublure,Polyester,100.0
+1552,1151399001,Semelle extérieure,Éthylène-acétate de vinyle,100.0
+1553,1062687009,,Éthylène-acétate de vinyle,100.0
+1554,1130541003,Couche extérieure,Polyamide,72.0
+1555,1130541003,Couche extérieure,Élasthanne,28.0
+1556,1158879003,Couche extérieure,Viscose,85.0
+1557,1158879003,Couche extérieure,Lin,15.0
+1558,1158879003,Doublure,Polyester,80.0
+1559,1158879003,Doublure,Coton,20.0
+1560,1182125003,,Polyester,80.0
+1561,1182125003,,Coton,20.0
+1562,1139185002,,Polyester,80.0
+1563,1139185002,,Coton,20.0
+1564,1181809002,Couche extérieure,Polyester,100.0
+1565,1110891012,,Polyester,100.0
+1566,1136440001,Semelle extérieure,Caoutchouc thermoplastique,100.0
+1567,1136440001,Dessus,Polyester,90.0
+1568,1136440001,Dessus,Polytéréphtalate d'éthylène,10.0
+1569,1169436002,Couche extérieure,Coton,100.0
+1570,1169436002,Doublure,Coton,80.0
+1571,1169436002,Doublure,Polyester,20.0
+1572,1165366002,,Coton,80.0
+1573,1165366002,,Polyester,20.0
+1574,1159343001,Couche extérieure,Polyamide,93.0
+1575,1159343001,Couche extérieure,Élasthanne,7.0
+1576,1159343001,Doublure intérieure entrejambe,Coton,100.0
+1577,1158836002,,Coton,100.0
+1578,1089883005,,Coton,100.0
+1579,1174658002,,Coton,100.0
+1580,1153365001,,Coton,100.0
+1581,1133354003,Dessus,Polyester,100.0
+1582,1133354003,Semelle extérieure,Caoutchouc,100.0
+1583,1158596002,,Caoutchouc,100.0
+1584,1026876010,,Caoutchouc,100.0
+1585,1185675001,,Caoutchouc,100.0
+1586,1033491005,,Caoutchouc,100.0
+1587,1197695001,Couche extérieure,Polyester,95.0
+1588,1197695001,Couche extérieure,Élasthanne,5.0
+1589,1197695001,Doublure,Polyester,100.0
+1590,1154467002,,Polyester,100.0
+1591,1118402003,,Polyester,100.0
+1592,1139239004,,Polyester,100.0
+1593,1065633004,Couche extérieure,Polyamide,72.0
+1594,1065633004,Couche extérieure,Élasthanne,28.0
+1595,1033491004,,Polyamide,72.0
+1596,1033491004,,Élasthanne,28.0
+1597,1153249001,Devant,Polyester,93.0
+1598,1153249001,Devant,Élasthanne,7.0
+1599,1153249001,Couche extérieure,Polyester,97.0
+1600,1153249001,Couche extérieure,Élasthanne,3.0
+1601,1031819011,Doublure,Coton,100.0
+1602,1137750003,Couche extérieure,Polyamide,83.0
+1603,1137750003,Couche extérieure,Élasthanne,17.0
+1604,1167573003,,Polyamide,83.0
+1605,1167573003,,Élasthanne,17.0
+1606,1157410002,,Polyamide,83.0
+1607,1157410002,,Élasthanne,17.0
+1608,1172301002,,Polyamide,83.0
+1609,1172301002,,Élasthanne,17.0
+1610,1163820003,,Polyamide,83.0
+1611,1163820003,,Élasthanne,17.0
+1612,1194785001,Couche extérieure,Polyester,96.0
+1613,1194785001,Couche extérieure,Élasthanne,4.0
+1614,1194785001,Doublure,Polyester,100.0
+1615,1056181017,Couche extérieure,Coton,100.0
+1616,1144795005,,Coton,100.0
+1617,1148211003,,Coton,100.0
+1618,1136171005,,Coton,100.0
+1619,1153527003,,Coton,100.0
+1620,1167511002,Couche extérieure,Lyocell,77.0
+1621,1167511002,Couche extérieure,Polyamide,23.0
+1622,1167511002,Doublure,Polyester,100.0
+1623,1163726001,,Polyester,100.0
+1624,1154467003,,Polyester,100.0
+1625,1128496006,,Polyester,100.0
+1626,1158858002,,Polyester,100.0
+1627,1125978004,Doublure intérieure entrejambe,Coton,100.0
+1628,1125978004,Couche extérieure,Polyamide,88.0
+1629,1125978004,Couche extérieure,Élasthanne,12.0
+1630,1172004002,,Polyamide,88.0
+1631,1172004002,,Élasthanne,12.0
+1632,1139411003,Doublure de bonnet,Polyamide,91.0
+1633,1139411003,Doublure de bonnet,Élasthanne,9.0
+1634,1031522008,,Polyamide,91.0
+1635,1031522008,,Élasthanne,9.0
+1636,1157545001,,Polyamide,91.0
+1637,1157545001,,Élasthanne,9.0
+1638,1158705003,,Polyamide,91.0
+1639,1158705003,,Élasthanne,9.0
+1640,1197404001,Couche extérieure,Polyamide,93.0
+1641,1197404001,Couche extérieure,Élasthanne,7.0
+1642,1172857002,,Polyamide,93.0
+1643,1172857002,,Élasthanne,7.0
+1644,1139714001,Couche extérieure,Polyester,100.0
+1645,1139714001,Doublure,Polyester,100.0
+1646,1158827002,,Polyester,100.0
+1647,0818600005,Couche extérieure,Papier,100.0
+1648,1155396003,,Papier,100.0
+1649,0886697019,Couche extérieure,Polyamide,75.0
+1650,0886697019,Couche extérieure,Élasthanne,25.0
+1651,1032947032,Doublure,Coton,100.0
+1652,1123007017,,Coton,100.0
+1653,1153250001,Couche extérieure,Polyester,96.0
+1654,1153250001,Couche extérieure,Élasthanne,4.0
+1655,1153250001,Doublure,Polyester,93.0
+1656,1153250001,Doublure,Élasthanne,7.0
+1657,1137680010,Couche extérieure,Viscose,85.0
+1658,1137680010,Couche extérieure,Lin,15.0
+1659,1137680010,Poche,Polyester,80.0
+1660,1137680010,Poche,Coton,20.0
+1661,1175808002,,Polyester,80.0
+1662,1175808002,,Coton,20.0
+1663,1149246002,Couche extérieure,Coton,100.0
+1664,1053399005,,Coton,100.0
+1665,1147832005,Doublure,Polyester,95.0
+1666,1147832005,Doublure,Élasthanne,5.0
+1667,1147832005,Couche extérieure,Polyester,75.0
+1668,1147832005,Couche extérieure,Coton,25.0
+1669,1159343006,Couche extérieure,Polyamide,93.0
+1670,1159343006,Couche extérieure,Élasthanne,7.0
+1671,1159343006,Doublure intérieure entrejambe,Coton,100.0
+1672,1056181019,Doublure,Coton,100.0
+1673,1196960001,Couche extérieure,Polyester,88.0
+1674,1196960001,Couche extérieure,Élasthanne,12.0
+1675,0985604028,,Polyester,88.0
+1676,0985604028,,Élasthanne,12.0
+1677,1195832001,,Polyester,88.0
+1678,1195832001,,Élasthanne,12.0
+1679,1160589001,Semelle extérieure,Polyuréthane,51.0
+1680,1160589001,Semelle extérieure,Polyuréthane thermoplastique,49.0
+1681,1160589001,Doublure,Polyester,100.0
+1682,1156098001,Dessus,Cuir,100.0
+1683,1156098001,Doublure,Cuir,100.0
+1684,1156098002,Doublure,Cuir,100.0
+1685,1156098002,Semelle extérieure,Caoutchouc thermoplastique,100.0
+1686,1197387001,,Caoutchouc thermoplastique,100.0
+1687,1172126002,,Caoutchouc thermoplastique,100.0
+1688,1110136002,,Caoutchouc thermoplastique,100.0
+1689,1155996005,,Caoutchouc thermoplastique,100.0
+1690,1159380003,,Caoutchouc thermoplastique,100.0
+1691,1158701002,Doublure,Polyester,95.0
+1692,1158701002,Doublure,Élasthanne,5.0
+1693,1158701002,Couche extérieure,Coton,95.0
+1694,1158701002,Couche extérieure,Élasthanne,5.0
+1695,1094043006,,Coton,95.0
+1696,1094043006,,Élasthanne,5.0
+1697,1137522004,Couche extérieure,Polyester,82.0
+1698,1137522004,Couche extérieure,Élasthanne,18.0
+1699,1137522004,Doublure,Polyamide,86.0
+1700,1137522004,Doublure,Élasthanne,14.0
+1701,1192075001,,Polyamide,86.0
+1702,1192075001,,Élasthanne,14.0
+1703,1175630007,,Polyamide,86.0
+1704,1175630007,,Élasthanne,14.0
+1705,1137680014,Couche extérieure,Viscose,85.0
+1706,1137680014,Couche extérieure,Lin,15.0
+1707,1137680014,Poche,Polyester,80.0
+1708,1137680014,Poche,Coton,20.0
+1709,1139520001,Doublure de poche,Coton,100.0
+1710,1139520001,Couche extérieure,Coton,100.0
+1711,1151276001,Doublure intérieure entrejambe,Coton,100.0
+1712,1151276001,Couche extérieure,Polyamide,85.0
+1713,1151276001,Couche extérieure,Élasthanne,15.0
+1714,1136411001,Couche extérieure,Polyamide,82.0
+1715,1136411001,Couche extérieure,Élasthanne,18.0
+1716,1149098004,,Polyamide,82.0
+1717,1149098004,,Élasthanne,18.0
+1718,1148592001,Couche extérieure,Coton,100.0
+1719,1148592001,Doublure,Polyester,100.0
+1720,1156388001,,Polyester,100.0
+1721,1195139001,,Polyester,100.0
+1722,1152892001,,Polyester,100.0
+1723,0965257014,Couche extérieure,Lin,52.0
+1724,0965257014,Couche extérieure,Coton,48.0
+1725,1149936003,,Lin,52.0
+1726,1149936003,,Coton,48.0
+1727,1123289005,Couche extérieure,Lyocell,100.0
+1728,1123289005,Doublure de poche,Polyester,100.0
+1729,1127533002,Semelle,Éthylène-acétate de vinyle,100.0
+1730,1054019008,Couche extérieure,Lin,55.0
+1731,1054019008,Couche extérieure,Coton,45.0
+1732,1054019008,Doublure de poche,Polyester,80.0
+1733,1054019008,Doublure de poche,Coton,20.0
+1734,0703672026,,Polyester,80.0
+1735,0703672026,,Coton,20.0
+1736,1150638007,Doublure de poche,Polyester,82.0
+1737,1150638007,Doublure de poche,Coton,18.0
+1738,1150638007,Couche extérieure,Lyocell,100.0
+1739,1065327007,,Lyocell,100.0
+1740,1158017001,,Lyocell,100.0
+1741,1171275001,,Lyocell,100.0
+1742,1032522069,,Lyocell,100.0
+1743,1032522066,,Lyocell,100.0
+1744,1071167007,,Lyocell,100.0
+1745,1130968002,,Lyocell,100.0
+1746,1097524010,,Lyocell,100.0
+1747,1071187003,,Lyocell,100.0
+1748,1171372001,Doublure de poche,Polyester,100.0
+1749,1171372001,Couche extérieure,Lin,52.0
+1750,1171372001,Couche extérieure,Coton,48.0
+1751,1070679011,,Lin,52.0
+1752,1070679011,,Coton,48.0
+1753,1163146004,,Lin,52.0
+1754,1163146004,,Coton,48.0
+1755,1163146006,,Lin,52.0
+1756,1163146006,,Coton,48.0
+1757,1163146007,,Lin,52.0
+1758,1163146007,,Coton,48.0
+1759,1150104003,Couche extérieure,Lyocell,100.0
+1760,1150104003,Doublure de poche,Coton,100.0
+1761,1165328002,,Coton,100.0
+1762,1150104001,Doublure de poche,Coton,100.0
+1763,1150104001,Couche extérieure,Lyocell,100.0
+1764,1169027001,,Lyocell,100.0
+1765,0863626009,,Lyocell,100.0
+1766,0863626009,,Lyocell,100.0
+1767,0945169013,,Lyocell,100.0
+1768,0945169013,,Lyocell,100.0
+1769,0945169013,Doublure de poche,Coton,100.0
+1770,1035679014,Doublure de poche,Polyester,82.0
+1771,1035679014,Doublure de poche,Coton,18.0
+1772,1035679014,Couche extérieure,Lin,100.0
+1773,1196499001,,Lin,100.0
+1774,0945169012,,Lin,100.0
+1775,0945169012,,Lin,100.0
+1776,0945169012,Doublure de poche,Coton,100.0
+1777,0965257012,Couche extérieure,Lin,52.0
+1778,0965257012,Couche extérieure,Coton,48.0
+1779,0945531030,,Lin,52.0
+1780,0945531030,,Coton,48.0
+1781,0945531030,,Lin,52.0
+1782,0945531030,,Coton,48.0
+1783,1137721004,Couche extérieure,Lin,100.0
+1784,1137721004,Doublure de poche,Polyester,80.0
+1785,1137721004,Doublure de poche,Coton,20.0
+1786,0965257015,Couche extérieure,Lin,52.0
+1787,0965257015,Couche extérieure,Coton,48.0
+1788,1125107001,,Lin,52.0
+1789,1125107001,,Coton,48.0
+1790,0685816194,,Lin,52.0
+1791,0685816194,,Coton,48.0
+1792,1125107002,,Lin,52.0
+1793,1125107002,,Coton,48.0
+1794,1143736004,,Lin,52.0
+1795,1143736004,,Coton,48.0
+1796,1149936001,,Lin,52.0
+1797,1149936001,,Coton,48.0
+1798,0761501024,,Lin,52.0
+1799,0761501024,,Coton,48.0
+1800,0761501024,Doublure de poche,Polyester,91.0
+1801,0761501024,Doublure de poche,Coton,9.0
+1802,0761501021,,Polyester,91.0
+1803,0761501021,,Coton,9.0
+1804,0761501021,Doublure de poche,Polyester,91.0
+1805,0761501021,Doublure de poche,Coton,9.0
+1806,0685816195,,Polyester,91.0
+1807,0685816195,,Coton,9.0
+1808,1161465001,,Polyester,91.0
+1809,1161465001,,Coton,9.0
+1810,1161465001,,Polyester,91.0
+1811,1161465001,,Coton,9.0
+1812,0945531036,,Polyester,91.0
+1813,0945531036,,Coton,9.0
+1814,0945531036,,Polyester,91.0
+1815,0945531036,,Coton,9.0
+1816,1116123008,,Polyester,91.0
+1817,1116123008,,Coton,9.0
+1818,1116123008,Base,Coton,100.0
+1819,1116123008,Haut,Coton,100.0
+1820,1147167001,Couche extérieure,Coton,73.0
+1821,1147167001,Couche extérieure,Polyester,27.0
+1822,1147167001,Doublure de poche,Coton,100.0
+1823,0956343043,,Coton,100.0
+1824,1160688001,,Coton,100.0
+1825,1139722004,Doublure de poche,Coton,100.0
+1826,1139722004,Couche extérieure,Coton,100.0
+1827,0740425019,,Coton,100.0
+1828,0973277044,,Coton,100.0
+1829,1196500001,,Coton,100.0
+1830,0931747021,Doublure de poche,Polyester,65.0
+1831,0931747021,Doublure de poche,Coton,35.0
+1832,0931747021,Couche extérieure,Coton,98.0
+1833,0931747021,Couche extérieure,Élasthanne,2.0
+1834,1019838025,Couche extérieure,Coton,98.0
+1835,1019838025,Couche extérieure,Élasthanne,2.0
+1836,1019838025,Doublure de poche,Coton,100.0
+1837,0972640062,,Coton,100.0
+1838,1160688006,,Coton,100.0
+1839,0965257016,Couche extérieure,Lin,52.0
+1840,0965257016,Couche extérieure,Coton,48.0
+1841,1055361009,Doublure et semelle intérieure,Coton,100.0
+1842,1055361009,Semelle extérieure,Caoutchouc,100.0
+1843,1055361010,Dessus,Polyester,100.0
+1844,1055361010,Doublure et semelle intérieure,Coton,100.0
+1845,1043405004,Doublure,Polyester,100.0
+1846,1099226003,,Polyester,100.0
+1847,1099226003,,Polyester,100.0
+1848,1152866001,,Polyester,100.0
+1849,1045432016,Doublure de poche,Coton,100.0
+1850,1045432016,Couche extérieure,Coton,99.0
+1851,1045432016,Couche extérieure,Élasthanne,1.0
+1852,1071167008,,Coton,99.0
+1853,1071167008,,Élasthanne,1.0
+1854,1037255007,,Coton,99.0
+1855,1037255007,,Élasthanne,1.0
+1856,1137721001,Doublure de poche,Polyester,80.0
+1857,1137721001,Doublure de poche,Coton,20.0
+1858,1137721001,Couche extérieure,Lin,100.0
+1859,1125480003,Couche extérieure,Lyocell,100.0
+1860,1125480003,Doublure de poche,Polyester,82.0
+1861,1125480003,Doublure de poche,Coton,18.0
+1862,1139722001,Doublure de poche,Coton,100.0
+1863,1139722001,Couche extérieure,Coton,100.0
+1864,1194938001,,Coton,100.0
+1865,1156438002,,Coton,100.0
+1866,1160688002,,Coton,100.0
+1867,1137721003,Doublure de poche,Polyester,80.0
+1868,1137721003,Doublure de poche,Coton,20.0
+1869,1137721003,Couche extérieure,Lin,100.0
+1870,1036745017,,Lin,100.0
+1871,1045432015,Couche extérieure,Coton,99.0
+1872,1045432015,Couche extérieure,Élasthanne,1.0
+1873,1045432015,Doublure de poche,Coton,100.0
+1874,1127680002,Couche extérieure,Coton,98.0
+1875,1127680002,Couche extérieure,Élasthanne,2.0
+1876,1127680002,Doublure de poche,Polyester,65.0
+1877,1127680002,Doublure de poche,Coton,35.0
+1878,1116123007,,Polyester,65.0
+1879,1116123007,,Coton,35.0
+1880,1116123007,Haut,Coton,100.0
+1881,1116123007,Base,Coton,100.0
+1882,1127680006,Doublure de poche,Polyester,65.0
+1883,1127680006,Doublure de poche,Coton,35.0
+1884,1127680006,Couche extérieure,Coton,98.0
+1885,1127680006,Couche extérieure,Élasthanne,2.0
+1886,1101074014,,Coton,98.0
+1887,1101074014,,Élasthanne,2.0
+1888,1064390001,,Coton,98.0
+1889,1064390001,,Élasthanne,2.0
+1890,0983297018,,Coton,98.0
+1891,0983297018,,Élasthanne,2.0
+1892,0983297018,Couche extérieure,Coton,60.0
+1893,0983297018,Couche extérieure,Polyester,40.0
+1894,0983297018,Doublure de poche,Coton,100.0
+1895,1136177003,Doublure de poche,Polyester,65.0
+1896,1136177003,Doublure de poche,Coton,35.0
+1897,1136177003,Couche extérieure,Lin,53.0
+1898,1136177003,Couche extérieure,Coton,47.0
+1899,1170606001,,Lin,53.0
+1900,1170606001,,Coton,47.0
+1901,1170606001,,Lin,53.0
+1902,1170606001,,Coton,47.0
+1903,1150638002,Couche extérieure,Lyocell,100.0
+1904,1150638002,Doublure de poche,Polyester,82.0
+1905,1150638002,Doublure de poche,Coton,18.0
+1906,1037593018,Doublure de poche,Polyester,65.0
+1907,1037593018,Doublure de poche,Coton,35.0
+1908,1037593018,Couche extérieure,Coton,100.0
+1909,1067136006,,Coton,100.0
+1910,1038375008,Couche extérieure,Coton,98.0
+1911,1038375008,Couche extérieure,Élasthanne,2.0
+1912,1038375008,Doublure de poche,Coton,100.0
+1913,0649098026,,Coton,100.0
+1914,0649098026,,Coton,100.0
+1915,1137833002,,Coton,100.0
+1916,0816759051,,Coton,100.0
+1917,1194934001,Couche extérieure,Polyester,90.0
+1918,1194934001,Couche extérieure,Élasthanne,10.0
+1919,1194934001,Dos,Polyester,86.0
+1920,1194934001,Dos,Élasthanne,14.0
+1921,1153399006,,Polyester,86.0
+1922,1153399006,,Élasthanne,14.0
+1923,1136716002,,Polyester,86.0
+1924,1136716002,,Élasthanne,14.0
+1925,1032522072,,Polyester,86.0
+1926,1032522072,,Élasthanne,14.0
+1927,0944719022,Doublure,Polyester,100.0
+1928,1157918002,Doublure de poche,Coton,60.0
+1929,1157918002,Doublure de poche,Polyester,40.0
+1930,1157918002,Couche extérieure,Coton,74.0
+1931,1157918002,Couche extérieure,Polyester,26.0
+1932,1137701001,Couche extérieure,Lin,53.0
+1933,1137701001,Couche extérieure,Coton,47.0
+1934,1137701001,Doublure de poche,Polyester,70.0
+1935,1137701001,Doublure de poche,Coton,30.0
+1936,1032522068,,Polyester,70.0
+1937,1032522068,,Coton,30.0
+1938,1137701004,Doublure de poche,Polyester,60.0
+1939,1137701004,Doublure de poche,Coton,40.0
+1940,1137701004,Couche extérieure,Lin,55.0
+1941,1137701004,Couche extérieure,Coton,45.0
+1942,1121160005,Couche extérieure,Coton,98.0
+1943,1121160005,Couche extérieure,Élasthanne,2.0
+1944,1121160005,Doublure de poche,Coton,100.0
+1945,0501620090,,Coton,100.0
+1946,1127680004,Doublure de poche,Polyester,65.0
+1947,1127680004,Doublure de poche,Coton,35.0
+1948,1127680004,Couche extérieure,Coton,98.0
+1949,1127680004,Couche extérieure,Élasthanne,2.0
+1950,0944718062,Couche intérieure,Polyester,100.0
+1951,1134949002,,Polyester,100.0
+1952,0956308039,Couche extérieure,Coton,58.0
+1953,0956308039,Couche extérieure,Polyester,42.0
+1954,0956308039,Doublure de poche,Coton,60.0
+1955,0956308039,Doublure de poche,Polyester,40.0
+1956,0656677055,,Coton,60.0
+1957,0656677055,,Polyester,40.0
+1958,1157706002,Doublure,Polyester,100.0
+1959,1057589010,Couche extérieure,Polyamide,100.0
+1960,0971037008,Couche extérieure,Polyamide,87.0
+1961,0971037008,Couche extérieure,Élasthanne,13.0
+1962,1059431022,,Polyamide,87.0
+1963,1059431022,,Élasthanne,13.0
+1964,1035597009,,Polyamide,87.0
+1965,1035597009,,Élasthanne,13.0
+1966,0948441020,,Polyamide,87.0
+1967,0948441020,,Élasthanne,13.0
+1968,0973277043,,Polyamide,87.0
+1969,0973277043,,Élasthanne,13.0
+1970,1037593012,Doublure de poche,Polyester,65.0
+1971,1037593012,Doublure de poche,Coton,35.0
+1972,1037593012,Couche extérieure,Coton,100.0
+1973,1150638001,Doublure de poche,Polyester,65.0
+1974,1150638001,Doublure de poche,Coton,35.0
+1975,1150638001,Couche extérieure,Lyocell,100.0
+1976,1064750002,Doublure,Polyester,100.0
+1977,1194937001,,Polyester,100.0
+1978,1171307004,,Polyester,100.0
+1979,0501620088,,Polyester,100.0
+1980,0995634011,Couche extérieure,Polyester,100.0
+1981,0995634011,Doublure de poche,Polyester,100.0
+1982,0944719020,Couche extérieure,Polyamide,100.0
+1983,1139874002,Couche extérieure,Lin,53.0
+1984,1139874002,Couche extérieure,Coton,47.0
+1985,1139874002,Doublure de poche,Polyester,65.0
+1986,1139874002,Doublure de poche,Coton,35.0
+1987,1179240001,,Polyester,65.0
+1988,1179240001,,Coton,35.0
+1989,1137833001,,Polyester,65.0
+1990,1137833001,,Coton,35.0
+1991,1037593011,Couche extérieure,Coton,100.0
+1992,1037593011,Doublure de poche,Polyester,65.0
+1993,1037593011,Doublure de poche,Coton,35.0
+1994,0656677063,,Polyester,65.0
+1995,0656677063,,Coton,35.0
+1996,0624901029,,Polyester,65.0
+1997,0624901029,,Coton,35.0
+1998,0983738006,,Polyester,65.0
+1999,0983738006,,Coton,35.0
+2000,1152029002,Devant,Polyester,88.0
+2001,1152029002,Devant,Élasthanne,12.0
+2002,1152029002,Dos,Polyester,100.0
+2003,1152029002,Couche intérieure,Polyester,87.0
+2004,1152029002,Couche intérieure,Élasthanne,13.0
+2005,1163100002,,Polyester,87.0
+2006,1163100002,,Élasthanne,13.0
+2007,1145208006,,Polyester,87.0
+2008,1145208006,,Élasthanne,13.0
+2009,1194937002,,Polyester,87.0
+2010,1194937002,,Élasthanne,13.0
+2011,1164304004,Couche extérieure,Lin,100.0
+2012,1153020002,Couche extérieure,Coton,100.0
+2013,1153020002,Doublure de poche,Coton,100.0
+2014,0973277046,,Coton,100.0
+2015,1134949003,,Coton,100.0
+2016,1135395002,Doublure de poche,Coton,100.0
+2017,1135395002,Couche extérieure,Lin,53.0
+2018,1135395002,Couche extérieure,Coton,47.0
+2019,1059431021,,Lin,53.0
+2020,1059431021,,Coton,47.0
+2021,1159823001,,Lin,53.0
+2022,1159823001,,Coton,47.0
+2023,1128251004,Semelle extérieure,Caoutchouc thermoplastique,100.0
+2024,1128251004,Dessus,Coton,55.0
+2025,1128251004,Dessus,Polyester,45.0
+2026,1194935002,Couche extérieure,Polyester,90.0
+2027,1194935002,Couche extérieure,Élasthanne,10.0
+2028,1194935002,Dos,Polyester,86.0
+2029,1194935002,Dos,Élasthanne,14.0
+2030,1127680003,Doublure de poche,Coton,100.0
+2031,1127680003,Couche extérieure,Coton,98.0
+2032,1127680003,Couche extérieure,Élasthanne,2.0
+2033,1147816001,Doublure de poche,Coton,100.0
+2034,1147816001,Couche extérieure,Coton,100.0
+2035,1138108004,Couche extérieure,Polyester,81.0
+2036,1138108004,Couche extérieure,Viscose,12.0
+2037,1138108004,Couche extérieure,Élasthanne,7.0
+2038,1138108004,Doublure de poche,Polyester,100.0
+2039,0971037007,Doublure,Polyester,100.0
+2040,1035597008,,Polyester,100.0
+2041,0944718068,Couche intérieure,Polyester,100.0
+2042,0967153017,,Polyester,100.0
+2043,1152353003,Semelle,Éthylène-acétate de vinyle,100.0
+2044,1152353003,Dessus,Polyuréthane,100.0
+2045,1152059001,,Polyuréthane,100.0
+2046,1063258005,,Polyuréthane,100.0
+2047,0944719018,Couche extérieure,Polyamide,100.0
+2048,1157638001,Doublure de poche,Polyester,65.0
+2049,1157638001,Doublure de poche,Coton,35.0
+2050,1157638001,Couche extérieure,Coton,100.0
+2051,0618329027,,Coton,100.0
+2052,1159824002,,Coton,100.0
+2053,1123766003,,Coton,100.0
+2054,1153937001,Galon,Polyester,100.0
+2055,1153653004,Couche extérieure,Coton,100.0
+2056,1153653004,Doublure de poche,Coton,100.0
+2057,1035597006,,Coton,100.0
+2058,0618329024,,Coton,100.0
+2059,1143932001,Couche extérieure,Coton,70.0
+2060,1143932001,Couche extérieure,Lin,30.0
+2061,1143932001,Doublure de poche,Coton,100.0
+2062,1155502001,Doublure,Coton,100.0
+2063,1162387002,,Coton,100.0
+2064,0944718069,Couche extérieure,Polyester,100.0
+2065,1043199012,,Polyester,100.0
+2066,0981640008,,Polyester,100.0
+2067,1048567013,Couche extérieure,Coton,100.0
+2068,1152353001,Dessus,Polyuréthane,100.0
+2069,1152353001,Semelle,Éthylène-acétate de vinyle,100.0
+2070,1136278021,,Éthylène-acétate de vinyle,100.0
+2071,0944718061,Couche extérieure,Polyester,100.0
+2072,1162387001,,Polyester,100.0
+2073,0783359032,Couche extérieure,Coton,100.0
+2074,1160682004,Doublure de poche,Polyester,65.0
+2075,1160682004,Doublure de poche,Coton,35.0
+2076,1160682004,Couche extérieure,Coton,100.0
+2077,1148269001,Couche extérieure,Coton,55.0
+2078,1148269001,Couche extérieure,Lin,45.0
+2079,1148269001,Doublure de poche,Coton,100.0
+2080,1147816002,Couche extérieure,Coton,100.0
+2081,1147816002,Doublure de poche,Coton,100.0
+2082,0863626010,,Coton,100.0
+2083,0863626010,,Coton,100.0
+2084,1037593020,Doublure de poche,Polyester,65.0
+2085,1037593020,Doublure de poche,Coton,35.0
+2086,1037593020,Couche extérieure,Coton,100.0
+2087,1145028001,Doublure de poche,Polyester,97.0
+2088,1145028001,Doublure de poche,Élasthanne,3.0
+2089,1145028001,Couche extérieure,Polyester,79.0
+2090,1145028001,Couche extérieure,Élasthanne,21.0
+2091,1194934003,Couche extérieure,Polyester,90.0
+2092,1194934003,Couche extérieure,Élasthanne,10.0
+2093,1194934003,Dos,Polyester,86.0
+2094,1194934003,Dos,Élasthanne,14.0
+2095,1025397010,,Polyester,86.0
+2096,1025397010,,Élasthanne,14.0
+2097,0920172012,Doublure,Polyester,100.0
+2098,1005627024,,Polyester,100.0
+2099,1163151002,Couche extérieure,Coton,100.0
+2100,1163151002,Doublure de poche,Coton,100.0
+2101,1147561003,Doublure,Coton,100.0
+2102,1162397001,Doublure de poche,Coton,100.0
+2103,1162397001,Couche extérieure,Polyester,75.0
+2104,1162397001,Couche extérieure,Coton,25.0
+2105,1194940002,,Polyester,75.0
+2106,1194940002,,Coton,25.0
+2107,1132909001,,Polyester,75.0
+2108,1132909001,,Coton,25.0
+2109,1162810002,Couche extérieure,Lin,100.0
+2110,1145203008,,Lin,100.0
+2111,0956343045,,Lin,100.0
+2112,1170425001,Doublure,Polyester,100.0
+2113,1170425001,Couche extérieure,Polyester,100.0
+2114,1150115003,Doublure de poche,Coton,100.0
+2115,1150115003,Couche extérieure,Polyamide,87.0
+2116,1150115003,Couche extérieure,Élasthanne,13.0
+2117,1057591010,Couche extérieure,Polyester,100.0
+2118,1154822002,,Polyester,100.0
+2119,1145203002,,Polyester,100.0
+2120,1142195006,,Polyester,100.0
+2121,0964264009,Couche intérieure,Polyester,100.0
+2122,1045433011,Doublure de poche,Coton,100.0
+2123,1045433011,Couche extérieure,Coton,99.0
+2124,1045433011,Couche extérieure,Élasthanne,1.0
+2125,1138108005,Doublure de poche,Polyester,100.0
+2126,1138108005,Couche extérieure,Polyester,81.0
+2127,1138108005,Couche extérieure,Viscose,12.0
+2128,1138108005,Couche extérieure,Élasthanne,7.0
+2129,1138106005,,Polyester,81.0
+2130,1138106005,,Viscose,12.0
+2131,1138106005,,Élasthanne,7.0
+2132,1147561004,Doublure,Coton,100.0
+2133,0995429012,Couche extérieure,Polyester,100.0
+2134,0995429012,Doublure,Polyester,100.0
+2135,1194934002,Couche extérieure,Polyester,90.0
+2136,1194934002,Couche extérieure,Élasthanne,10.0
+2137,1194934002,Dos,Polyester,86.0
+2138,1194934002,Dos,Élasthanne,14.0
+2139,1136177006,Doublure de poche,Polyester,65.0
+2140,1136177006,Doublure de poche,Coton,35.0
+2141,1136177006,Couche extérieure,Lin,53.0
+2142,1136177006,Couche extérieure,Coton,47.0
+2143,1086865013,Couche extérieure,Polyester,100.0
+2144,1086865013,Doublure de poche,Polyester,100.0
+2145,1082103013,,Polyester,100.0
+2146,1025397011,,Polyester,100.0
+2147,1164222001,Doublure,Polyester,100.0
+2148,1025404026,Doublures,Polyester,100.0
+2149,1025404026,Doublure de poche,Polyester,100.0
+2150,1054578007,Doublure de poche,Polyester,100.0
+2151,1054578007,Couche extérieure,Polyester,100.0
+2152,1145028002,Doublure de poche,Polyester,97.0
+2153,1145028002,Doublure de poche,Élasthanne,3.0
+2154,1145028002,Couche extérieure,Polyester,79.0
+2155,1145028002,Couche extérieure,Élasthanne,21.0
+2156,1105454008,Dos,Polyester,100.0
+2157,1105454008,Devant,Polyester,88.0
+2158,1105454008,Devant,Élasthanne,12.0
